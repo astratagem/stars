@@ -1446,7 +1446,7 @@
 
 ## KakouneScript 
 
-- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal dotfiles
+- [evanrelf/dotfiles](https://github.com/evanrelf/dotfiles) - My personal development environment
 
 ## Kotlin 
 
@@ -2928,7 +2928,6 @@
 - [RustyNova016/musicbrainz_rs_nova](https://github.com/RustyNova016/musicbrainz_rs_nova) - A wrapper around the musicbrainz API
 - [RustyNova016/Alistral](https://github.com/RustyNova016/Alistral) - Power tools for Listenbrainz
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [viperML/activation-manager](https://github.com/viperML/activation-manager) - The missing piece for effectful operations with Nix
 - [Automattic/wordpress-rs](https://github.com/Automattic/wordpress-rs) - A cross-platform WordPress API implementation
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
