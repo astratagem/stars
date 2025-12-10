@@ -2435,7 +2435,7 @@
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators
+- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A WordPress plugin that provides a network management interface for global multisite administrators
 - [WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
 - [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -4984,7 +4984,7 @@
 - [cyruseuros/ewal](https://github.com/cyruseuros/ewal) - 
 - [bahamas10/hue-cli](https://github.com/bahamas10/hue-cli) - A command line interface to phillips hue
 - [charlesroelli/org-board](https://github.com/charlesroelli/org-board) - Org mode's web archiver.
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [wressl/medical-docs](https://github.com/wressl/medical-docs) - An espanso package to assist with medical documentation
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [ahungry/org-jira](https://github.com/ahungry/org-jira) - Bring Jira and OrgMode together
@@ -5016,13 +5016,13 @@
 - [cantino/reckon](https://github.com/cantino/reckon) - Flexibly import bank account CSV files into Ledger for command-line accounting
 - [benallan/bitbar-yabai-skhd](https://github.com/benallan/bitbar-yabai-skhd) - Bitbar plugin to display yabai space/desktop id and mode.
 - [marshallbrekka/yabai-config](https://github.com/marshallbrekka/yabai-config) - Configurations for yabai and skhd for window management.
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
+- [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [FryJay/MenuHammer](https://github.com/FryJay/MenuHammer) - A Spacemacs inspired menu system for macOS built for Hammerspoon.
 - [dperk/wpset](https://github.com/dperk/wpset) - Set OS X 10.9+ wallpaper for all spaces on all monitors.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
-- [koekeishiya/dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files
+- [asmvik/dotfiles](https://github.com/asmvik/dotfiles) - Configuration files
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [beetbox/aura](https://github.com/beetbox/aura) - music library REST API
@@ -7046,7 +7046,7 @@
 - [spacedmonkey/wp-rest-blocks](https://github.com/spacedmonkey/wp-rest-blocks) - Add gutenberg blocks data into post / page / widget REST API endpoints.
 - [stuttter/wp-spider-cache](https://github.com/stuttter/wp-spider-cache) - Your friendly neighborhood caching solution for WordPress
 - [stuttter/wp-user-profiles](https://github.com/stuttter/wp-user-profiles) - ⭐️ Better Profiles for WordPress
-- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators
+- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A WordPress plugin that provides a network management interface for global multisite administrators
 - [htmlburger/wpemerge](https://github.com/htmlburger/wpemerge) - A modern, MVC-powered WordPress as a CMS workflow. 🚀
 - [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
