@@ -205,10 +205,10 @@
 - [mntmn/produce](https://github.com/mntmn/produce) - mnt produce, the hacker's digital audio workstation (linux)
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [zsa/qmk_firmware](https://github.com/zsa/qmk_firmware) - QMK, forked for ZSA's Oryx Configurator (to safeguard stability)
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
+- [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 
 ## C# # 
@@ -250,7 +250,6 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness.
 - [nix-community/nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1011,6 +1010,7 @@
 - [fabrizioschiavi/arrow-finder](https://github.com/fabrizioschiavi/arrow-finder) - These docs help you to find and use arrows you need more quickly
 - [tombetthauser/watercolor-basics](https://github.com/tombetthauser/watercolor-basics) - Some personal stuff that I observed help frustrated and talented art students over 10+ years making, learning and teaching art professionally for no reason.
 - [penske-media-corp/pmc-larva](https://github.com/penske-media-corp/pmc-larva) - PMC's design system.
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [joyeusenoelle/GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
@@ -2469,7 +2469,7 @@
 - [spacedmonkey/wp-rest-blocks](https://github.com/spacedmonkey/wp-rest-blocks) - Add gutenberg blocks data into post / page / widget REST API endpoints.
 - [stuttter/wp-spider-cache](https://github.com/stuttter/wp-spider-cache) - Your friendly neighborhood caching solution for WordPress
 - [stuttter/wp-user-profiles](https://github.com/stuttter/wp-user-profiles) - ⭐️ Better Profiles for WordPress
-- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators
+- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A WordPress plugin that provides a network management interface for global multisite administrators
 - [htmlburger/wpemerge](https://github.com/htmlburger/wpemerge) - A modern, MVC-powered WordPress as a CMS workflow. 🚀
 - [WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards) - PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
@@ -3761,7 +3761,7 @@
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
 - [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
 - [marcoieni/intellimacs](https://github.com/marcoieni/intellimacs) - Spacemacs' like key bindings for IntelliJ platform.
-- [koekeishiya/dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files
+- [asmvik/dotfiles](https://github.com/asmvik/dotfiles) - Configuration files
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [danielbachhuber/dotfiles](https://github.com/danielbachhuber/dotfiles) - 
 
