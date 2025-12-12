@@ -102,6 +102,7 @@
 - [game-development](#game-development)
 - [gamedev](#gamedev)
 - [games](#games)
+- [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -2059,6 +2060,11 @@
 ## games 
 
 - [yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
+
+## generative-ai 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## gh-extension 
 
@@ -4245,7 +4251,6 @@
 - [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outline folding for Emacs
 - [alleyinteractive/stage-file-proxy](https://github.com/alleyinteractive/stage-file-proxy) - Mirror (or header to) uploaded files from a remote production site on your local development copy. Saves the trouble of downloading a giant uploads directory without sacrificing the images that accomp
 - [alleyinteractive/wp-match-blocks](https://github.com/alleyinteractive/wp-match-blocks) - Match WordPress blocks in the given content.
-- [alleyinteractive/wp-caper](https://github.com/alleyinteractive/wp-caper) - Fluently distribute capabilities to roles in WordPress.
 - [devmattrick/nixfiles-archive](https://github.com/devmattrick/nixfiles-archive) - NixOS system configs
 - [gagbo/consult-lsp](https://github.com/gagbo/consult-lsp) - LSP-mode and consult.el helping each other
 - [Gabriella439/macos-builder](https://github.com/Gabriella439/macos-builder) - Bootstrap a Linux build VM on macOS
@@ -7010,6 +7015,7 @@
 - [mindkomm/theme-lib-mix](https://github.com/mindkomm/theme-lib-mix) - A Laravel Mix function for WordPress themes.
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [alleyinteractive/wordpress-autoloader](https://github.com/alleyinteractive/wordpress-autoloader) - WordPress autoloader that follows WordPress coding standards
+- [alleyinteractive/wp-caper](https://github.com/alleyinteractive/wp-caper) - Fluently distribute capabilities to roles in WordPress.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.
 - [woocommerce/action-scheduler](https://github.com/woocommerce/action-scheduler) - A scalable, traceable job queue for background processing large queues of tasks in WordPress. Specifically designed for distribution in WordPress plugins (and themes) - no server access required.
