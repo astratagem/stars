@@ -366,7 +366,6 @@
 
 ## Dockerfile 
 
-- [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) - 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream.
 - [tianon/dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 
@@ -3162,6 +3161,7 @@
 - [szepeviktor/safe-website-upgrade](https://github.com/szepeviktor/safe-website-upgrade) - Upgrade a website with comparing before and after state
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
+- [Crell/php-project-template](https://github.com/Crell/php-project-template) - My personal template for new PHP projects.
 - [ramsey/composer-install](https://github.com/ramsey/composer-install) - :gift: A GitHub Action to streamline installation of PHP dependencies with Composer.
 - [Ducky6944/chezmoi](https://github.com/Ducky6944/chezmoi) - 
 - [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) - An add-on to run the Vite dev server from inside the DDEV environment.
