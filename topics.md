@@ -846,7 +846,7 @@
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [BurntSushi/biff](https://github.com/BurntSushi/biff) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -3784,7 +3784,7 @@
 - [juanmanuelferrera/gtd-E](https://github.com/juanmanuelferrera/gtd-E) - 
 - [flokli/nixos-apple-silicon](https://github.com/flokli/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [krisbalintona/org-roam-folgezettel](https://github.com/krisbalintona/org-roam-folgezettel) - 
-- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - 
+- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - Repository moved to: https://codeberg.org/krisbalintona/emacs-config
 - [jplindstrom/emacs-org-transform-tree-table](https://github.com/jplindstrom/emacs-org-transform-tree-table) - Transform an org-mode outline and its properties to a table format (org-table, CSV)
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [kleinweb/saml-auth](https://github.com/kleinweb/saml-auth) - 
@@ -5871,7 +5871,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [BurntSushi/biff](https://github.com/BurntSushi/biff) - A command line tool for datetime arithmetic, parsing, formatting and more.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -6403,7 +6403,7 @@
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
