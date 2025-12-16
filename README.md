@@ -411,7 +411,7 @@
 - [SavchenkoValeriy/jeison](https://github.com/SavchenkoValeriy/jeison) - An Emacs library for declarative JSON parsing
 - [juanmanuelferrera/gtd-E](https://github.com/juanmanuelferrera/gtd-E) - 
 - [krisbalintona/org-roam-folgezettel](https://github.com/krisbalintona/org-roam-folgezettel) - 
-- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - 
+- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - Repository moved to: https://codeberg.org/krisbalintona/emacs-config
 - [jplindstrom/emacs-org-transform-tree-table](https://github.com/jplindstrom/emacs-org-transform-tree-table) - Transform an org-mode outline and its properties to a table format (org-table, CSV)
 - [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
@@ -2602,6 +2602,7 @@
 
 ## Perl 
 
+- [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
@@ -2629,7 +2630,6 @@
 
 ## Python 
 
-- [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [acarapetis/jj-pre-push](https://github.com/acarapetis/jj-pre-push) - Run pre-commit.com before `jj git push`
 - [TheWicklowWolf/Lidify](https://github.com/TheWicklowWolf/Lidify) - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
@@ -2906,7 +2906,7 @@
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [BurntSushi/biff](https://github.com/BurntSushi/biff) - A command line tool for datetime arithmetic, parsing, formatting and more.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [nix-community/namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea [maintainer=@figsoda]
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
