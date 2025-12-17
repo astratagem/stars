@@ -1573,7 +1573,7 @@
 - [nicknovitski/make-shell](https://github.com/nicknovitski/make-shell) - mkShell meets modules
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
-- [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree. Mirror from https://tangled.org/oeiuwq.com/import-tree. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/
+- [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
