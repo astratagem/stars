@@ -1227,7 +1227,7 @@
 - [remy/light-dark-switcher](https://github.com/remy/light-dark-switcher) - Light/Dark theme switcher for Firefox
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [amanda-mitchell/suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -2199,6 +2199,7 @@
 
 ## PHP 
 
+- [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
 - [x3p0-dev/x3p0-ideas](https://github.com/x3p0-dev/x3p0-ideas) - 👨‍🎨 All my crazy ideas for WordPress packed into a block theme.
 - [godaddy-wordpress/go](https://github.com/godaddy-wordpress/go) - The most flexible Gutenberg-first WordPress theme built for go-getters everywhere.
 - [inpsyde/gutenberg-versions-manager](https://github.com/inpsyde/gutenberg-versions-manager) - A lib that activate/deactivate a Gutenberg version depending on the Theme being activate
