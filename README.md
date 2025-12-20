@@ -771,7 +771,7 @@
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [jsfr/Spoons](https://github.com/jsfr/Spoons) - Personal Hammerspoon Spoons Repository
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
-- [agzam/spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs
+- [agzam/spacehammer](https://github.com/agzam/spacehammer) - Spacemacs|Doom inspired Hammerspoon modal toolkit
 
 ## GDB 
 
@@ -1979,7 +1979,7 @@
 
 ## Org 
 
-- [elken/doom](https://github.com/elken/doom) - Doom Emacs config
+- [elken/doom](https://github.com/elken/doom) - Doom Emacs config (no longer in use)
 - [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
 
 ## Others 
@@ -3672,7 +3672,7 @@
 - [hedgedoc/react-client](https://github.com/hedgedoc/react-client) - The frontend of the upcoming version 2.0
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
