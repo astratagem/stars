@@ -2679,6 +2679,7 @@
 
 ## ios 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [mzeryck/Weather-Cal](https://github.com/mzeryck/Weather-Cal) - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elemen
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -3358,6 +3359,7 @@
 
 ## mobile 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
 
 ## mongodb 
@@ -6160,6 +6162,7 @@
 
 ## shell 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists...
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -6343,6 +6346,7 @@
 
 ## swift 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [Automattic/wordpress-rs](https://github.com/Automattic/wordpress-rs) - A cross-platform WordPress API implementation
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -6409,6 +6413,7 @@
 
 ## terminal 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
