@@ -2891,6 +2891,7 @@
 
 ## Rust 
 
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
 - [corn-config/corn](https://github.com/corn-config/corn) - 🌽 A simple and pain-free configuration language. Reference libcorn implementation and CLI.
 - [whit3rabbit/lipgloss-rs](https://github.com/whit3rabbit/lipgloss-rs) - A rust port of https://github.com/charmbracelet/lipgloss
