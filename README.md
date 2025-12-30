@@ -111,6 +111,7 @@
 ## Astro 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Awk 
 
@@ -309,7 +310,6 @@
 - [zzzeyez/pecan](https://github.com/zzzeyez/pecan) - menubar for macOS
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [bezmi/base16-tridactyl](https://github.com/bezmi/base16-tridactyl) - Base16 Themes for the firefox tridactyl plugin
@@ -1119,6 +1119,7 @@
 
 ## JavaScript 
 
+- [corn-config/tree-sitter-corn](https://github.com/corn-config/tree-sitter-corn) - Tree-Sitter and syntax highlighting support for Corn configuration language
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - 
@@ -1555,6 +1556,7 @@
 
 ## Nix 
 
+- [ratson/nix-treesitter](https://github.com/ratson/nix-treesitter) - All and up-to-date tree-sitter grammars built for nix.
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [nix-systems/default](https://github.com/nix-systems/default) - [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ]
@@ -1781,7 +1783,6 @@
 - [cole-h/nixos-config](https://github.com/cole-h/nixos-config) - My flakes-powered NixOS configuration
 - [johnae/nix-misc](https://github.com/johnae/nix-misc) - Assorted Nix utility functions and derivations.
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
-- [astratagem/dotfield](https://github.com/astratagem/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [johnae/nix-flake-templates](https://github.com/johnae/nix-flake-templates) - Templates for Nix flakes
@@ -1943,7 +1944,6 @@
 
 ## Nushell 
 
-- [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [amtoine/wallpapers](https://github.com/amtoine/wallpapers) - A gallery of wallpapers I use for my laptop config.
 - [amtoine/dotfiles](https://github.com/amtoine/dotfiles) - My personal archlinux config files.
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
@@ -2950,6 +2950,7 @@
 - [MolotovCherry/Native-Plugin-Template-Rust](https://github.com/MolotovCherry/Native-Plugin-Template-Rust) - A rust template for creating native dll plugins that edit game memory
 - [nix-community/docnix](https://github.com/nix-community/docnix) - nix-community reference documentation (until officially released) [maintainer=@hsjobeki]
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [nushell/nufmt](https://github.com/nushell/nufmt) - 
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere; superceded by Omnix https://omnix.page/om/ci.html
 - [oddlama/kanidm-secret-manipulator](https://github.com/oddlama/kanidm-secret-manipulator) - A helper utility that modifies the kanidm database to allow provisioning declarative secrets
