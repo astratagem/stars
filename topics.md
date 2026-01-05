@@ -4296,7 +4296,7 @@
 - [w4ffl35/stablediffusiond](https://github.com/w4ffl35/stablediffusiond) - A daemon which watches a queue and runs stable diffusion.
 - [snowfallorg/templates](https://github.com/snowfallorg/templates) - Templates for use with @snowfallorg/lib
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
-- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
+- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@yunfachi] (with initial help from @blaggacao)
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
 - [jmgilman/std-example](https://github.com/jmgilman/std-example) - An example repository showcasing the Nix std framework
