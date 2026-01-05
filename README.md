@@ -1708,7 +1708,7 @@
 - [nix-community/lib-aggregate](https://github.com/nix-community/lib-aggregate) - a flake to aggregate pure nix libs which do not depend on nixpkgs [maintainer=@Artturin]
 - [snowfallorg/templates](https://github.com/snowfallorg/templates) - Templates for use with @snowfallorg/lib
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
-- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
+- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@yunfachi] (with initial help from @blaggacao)
 - [samhh/dotfiles](https://github.com/samhh/dotfiles) - Configuring the universe with Nix.
 - [jmgilman/std-example](https://github.com/jmgilman/std-example) - An example repository showcasing the Nix std framework
 - [hackworthltd/hacknix](https://github.com/hackworthltd/hacknix) - Hackworth Ltd's nix overlays and modules.
