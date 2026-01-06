@@ -2113,7 +2113,7 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [xeruf/kull](https://github.com/xeruf/kull) - Kull is a collaboration convention that preserves order through clear rules and processes
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
@@ -3345,7 +3345,7 @@
 
 ## mcp 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 
 ## microservices 
 
