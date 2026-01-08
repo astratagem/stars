@@ -238,7 +238,7 @@
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
@@ -412,7 +412,7 @@
 - [SavchenkoValeriy/jeison](https://github.com/SavchenkoValeriy/jeison) - An Emacs library for declarative JSON parsing
 - [juanmanuelferrera/gtd-E](https://github.com/juanmanuelferrera/gtd-E) - 
 - [krisbalintona/org-roam-folgezettel](https://github.com/krisbalintona/org-roam-folgezettel) - 
-- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - Repository moved to: https://codeberg.org/krisbalintona/emacs-config
+- [krisbalintona/emacs-config](https://github.com/krisbalintona/emacs-config) - Mirror of https://codeberg.org/krisbalintona/emacs-config
 - [jplindstrom/emacs-org-transform-tree-table](https://github.com/jplindstrom/emacs-org-transform-tree-table) - Transform an org-mode outline and its properties to a table format (org-table, CSV)
 - [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
@@ -768,7 +768,7 @@
 
 - [datwaft/themis.nvim](https://github.com/datwaft/themis.nvim) - Fennel macros for hotpot.nvim created for my personal Neovim configuration.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - :hibiscus: Flavored Fennel Macros for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - MOVED TO CODEBERG - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [jsfr/Spoons](https://github.com/jsfr/Spoons) - Personal Hammerspoon Spoons Repository
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
@@ -1229,7 +1229,7 @@
 - [remy/light-dark-switcher](https://github.com/remy/light-dark-switcher) - Light/Dark theme switcher for Firefox
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [amanda-mitchell/suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -1991,7 +1991,6 @@
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
-- [infinum/eightshift-deploy-actions-public](https://github.com/infinum/eightshift-deploy-actions-public) - 
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [oldmanumby/DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) - Dungeons & Dragons 5th Edition SRD converted to Markdown.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
@@ -2202,6 +2201,7 @@
 - [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
 - [x3p0-dev/x3p0-ideas](https://github.com/x3p0-dev/x3p0-ideas) - 👨‍🎨 All my crazy ideas for WordPress packed into a block theme.
 - [godaddy-wordpress/go](https://github.com/godaddy-wordpress/go) - The most flexible Gutenberg-first WordPress theme built for go-getters everywhere.
+- [infinum/eightshift-deploy-actions-public](https://github.com/infinum/eightshift-deploy-actions-public) - 
 - [inpsyde/gutenberg-versions-manager](https://github.com/inpsyde/gutenberg-versions-manager) - A lib that activate/deactivate a Gutenberg version depending on the Theme being activate
 - [inpsyde/disable-comments](https://github.com/inpsyde/disable-comments) - A WordPress plugin that completely disables comments as a WordPress feature.
 - [inpsyde/objects-hooks-remover](https://github.com/inpsyde/objects-hooks-remover) - Package to remove WordPress hook callbacks that uses object methods or closures.
@@ -2512,7 +2512,7 @@
 - [alleyinteractive/searchpress](https://github.com/alleyinteractive/searchpress) - Elasticsearch integration for WordPress.
 - [BrianHenryIE/bh-wp-logger](https://github.com/BrianHenryIE/bh-wp-logger) - Zero-config log UI for WordPress plugins
 - [CuyZ/MagicConstant](https://github.com/CuyZ/MagicConstant) - PHP Magic Constants, even more powerful than an Enum
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - Dependency free PHP library that helps to map any input into a strongly-typed structure.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [alleyinteractive/clone-replace](https://github.com/alleyinteractive/clone-replace) - [Deprecated] Clone & Replace WordPress Plugin. Gives you the ability to clone posts, and replace posts. Together, you have a very powerful tool for a fork/merge editing model.
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
@@ -3153,6 +3153,7 @@
 
 ## Shell 
 
+- [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin) - Web-based phpMyAdmin interface for MySQL, MariaDB in DDEV
 - [usgraphics/usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -3398,6 +3399,7 @@
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [arbelt/fish-plugin-scmpuff](https://github.com/arbelt/fish-plugin-scmpuff) - 
+- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - My setup for 🐠 Fish shell on  macOS - v3
 - [ttscoff/fish_files](https://github.com/ttscoff/fish_files) - 
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -3724,7 +3726,6 @@
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [screeny05/letterboxd-list-radarr](https://github.com/screeny05/letterboxd-list-radarr) - Connect radarr to letterboxd.com lists
-- [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - My setup for 🐠 Fish shell on  macOS - v3
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [open5e/open5e](https://github.com/open5e/open5e) - An SRD and open-source material reference site for 5th edition D&D
 - [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
