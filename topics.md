@@ -2338,6 +2338,7 @@
 
 ## gui 
 
+- [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [rougier/nano-dialog](https://github.com/rougier/nano-dialog) - Emac native dialog box
 - [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
@@ -3760,7 +3761,6 @@
 - [thefrontside/lspx](https://github.com/thefrontside/lspx) - language server multiplexer, supervisor, and interactive shell
 - [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - 
 - [terlar/dev-flake](https://github.com/terlar/dev-flake) - Nix flake to support the pattern of using a separate development flake
-- [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [AmaiKinono/puni](https://github.com/AmaiKinono/puni) - Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box.
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [bennyandresen/jujutsu.el](https://github.com/bennyandresen/jujutsu.el) - An Emacs interface for jujutsu, inspired by magit and humbly not attempting to match it in scope.
