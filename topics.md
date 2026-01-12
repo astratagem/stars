@@ -1542,7 +1542,7 @@
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [alhassy/emacs.d](https://github.com/alhassy/emacs.d) - My Emacs configuration, literately :smile:
 - [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) - My dotfiles for NixOS & Darwin
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
@@ -3484,7 +3484,7 @@
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -6480,7 +6480,7 @@
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
@@ -7240,7 +7240,6 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [zdharma-continuum/zinit-module](https://github.com/zdharma-continuum/zinit-module) - zsh module for automatically compiling sourced files
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [agkozak/zcomet](https://github.com/agkozak/zcomet) - zcomet - Fast, Simple Zsh Plugin Manager
