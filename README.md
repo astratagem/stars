@@ -1486,10 +1486,9 @@
 - [khuedoan/dotfiles](https://github.com/khuedoan/dotfiles) - nvim, tmux, zsh, fzf, sway, and more!
 - [rtauziac/Hammerspoon-Yabai](https://github.com/rtauziac/Hammerspoon-Yabai) - My personal macOS window manager setup
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -1817,6 +1816,7 @@
 - [martinbaillie/dotfiles](https://github.com/martinbaillie/dotfiles) - 🏠
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [infinisil/nixlisp](https://github.com/infinisil/nixlisp) - 
+- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [kkharji/nixenv](https://github.com/kkharji/nixenv) - Nix Library for creating OS independent Systems.
 - [divnix/devos-ext-lib](https://github.com/divnix/devos-ext-lib) - A kick ass library to dominate your Extensions (with DevOS).
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
