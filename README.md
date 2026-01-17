@@ -290,6 +290,8 @@
 
 ## CSS 
 
+- [pdanzma/kage-css](https://github.com/pdanzma/kage-css) - This custom CSS theme significantly enhances the user experience of the "Kagi" search engine by incorporating glassmorphism visuals, modern animations and customisable colour options.
+- [jcrabapple/kagi-catppuccin-light-dark](https://github.com/jcrabapple/kagi-catppuccin-light-dark) - Catppuccin Mocha custom CSS for Kagi.com
 - [mandrasch/ddev-pull-wp-scripts](https://github.com/mandrasch/ddev-pull-wp-scripts) - Inofficial DDEV pull scripts for happy local WordPress development.
 - [soflyy/import-users-from-csv](https://github.com/soflyy/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
@@ -1229,7 +1231,7 @@
 - [remy/light-dark-switcher](https://github.com/remy/light-dark-switcher) - Light/Dark theme switcher for Firefox
 - [matthewp/robot](https://github.com/matthewp/robot) - 🤖 A functional, immutable Finite State Machine library
 - [amanda-mitchell/suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [Xe/Xeact](https://github.com/Xe/Xeact) - A high performance, developer-efficient and overall ballin' femtoframework for productive development in Javascript
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
@@ -1496,6 +1498,7 @@
 - [pinpox/wallpaper-generator](https://github.com/pinpox/wallpaper-generator) - Generate wallpaper images from mathematical functions
 - [wookayin/dotfiles](https://github.com/wookayin/dotfiles) - :house: Personal dotfiles for *NIX systems
 - [nmattia/homies](https://github.com/nmattia/homies) - home dir & package management
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
@@ -1930,12 +1933,11 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
-- [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [jacobbednarz/j](https://github.com/jacobbednarz/j) - dotfiles; delivered via nix, nix-darwin and home-manager
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [hardselius/dotfiles](https://github.com/hardselius/dotfiles) - My personal dotfiles
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [danidiaz/miscellany](https://github.com/danidiaz/miscellany) - 
@@ -1985,6 +1987,7 @@
 
 ## Others 
 
+- [rmcrackan/AudiobookHub](https://github.com/rmcrackan/AudiobookHub) - Software resources for improving audiobook management
 - [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - 
 - [its-darsh/bars-and-widgets-list](https://github.com/its-darsh/bars-and-widgets-list) - a list of status bars and widget systems for *Nix operating systems
 - [thinkhuman/writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
@@ -2054,6 +2057,7 @@
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [toonn/Nix-macOS-Monthly](https://github.com/toonn/Nix-macOS-Monthly) - Nix 🖤 macOS Monthly Discourse update posts
 - [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) - A collection of awesome resources about @storybookjs ecosystem 🎨
+- [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) - Multipurpose VIP Docker container images (primarily meant for use with the VIP Local Development Environment)
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [dhall-lang/awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -2373,7 +2377,7 @@
 - [wpengine/wp-graphql-filter-query](https://github.com/wpengine/wp-graphql-filter-query) - Adds taxonomy filtering and aggregation support to WP GraphQL
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more.
 - [wpengine/wp-graphql-content-blocks](https://github.com/wpengine/wp-graphql-content-blocks) - Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data
-- [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
+- [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework plugin for WordPress
 - [boxybird/morph](https://github.com/boxybird/morph) - A WordPress theme package for building Laravel Livewire inspired WordPress components with Alpine.js.
 - [boxybird/inertia-wordpress](https://github.com/boxybird/inertia-wordpress) - The WordPress adapter for Inertia.js.
 - [alleyinteractive/wp-path-dispatch](https://github.com/alleyinteractive/wp-path-dispatch) - Simply and easily add a URL which fires an action, triggers a callback, and/or loads a template.
@@ -2436,7 +2440,6 @@
 - [alleyinteractive/archiveless](https://github.com/alleyinteractive/archiveless) - WordPress plugin to hide posts from archives (lists)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measure
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
-- [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) - Multipurpose VIP Docker container images (primarily meant for use with the VIP Local Development Environment)
 - [humanmade/Workflows](https://github.com/humanmade/Workflows) - Powerful workflows for WordPress
 - [nelmio/alice](https://github.com/nelmio/alice) - Expressive fixtures generator
 - [nette/tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
@@ -2839,7 +2842,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles with a corporate-ish-level cleanliness
 - [NICHOLAS85/dotfiles](https://github.com/NICHOLAS85/dotfiles) - Followed https://www.atlassian.com/git/tutorials/dotfiles
 
 ## RenderScript 
@@ -2890,6 +2893,7 @@
 
 ## Rust 
 
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
@@ -3153,6 +3157,7 @@
 
 ## Shell 
 
+- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin) - Web-based phpMyAdmin interface for MySQL, MariaDB in DDEV
 - [usgraphics/usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
@@ -3235,7 +3240,7 @@
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 - [xeruf/kull](https://github.com/xeruf/kull) - Kull is a collaboration convention that preserves order through clear rules and processes
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
+- [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh securely - used by 5k+ workflows!
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [kevinywlui/zlong_alert.zsh](https://github.com/kevinywlui/zlong_alert.zsh) - A plugin to alert you when a long-running command has finished
 - [SxC97/Yabai-Spaces](https://github.com/SxC97/Yabai-Spaces) - A *crazy* customizable Bitbar plugin that displays the total number of spaces and highlights the current one.
@@ -3496,6 +3501,7 @@
 
 ## TypeScript 
 
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
