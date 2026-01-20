@@ -30,6 +30,7 @@
 - [GDScript](#gdscript)
 - [Gherkin](#gherkin)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -75,7 +76,6 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Sieve](#sieve)
-- [Smarty](#smarty)
 - [SourcePawn](#sourcepawn)
 - [SuperCollider](#supercollider)
 - [Svelte](#svelte)
@@ -963,6 +963,10 @@
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
+
+## Go Template 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Groovy 
 
@@ -3433,10 +3437,6 @@
 - [brokenalarms/hey-proton](https://github.com/brokenalarms/hey-proton) - Sieve filters for Proton inspired by HEY.
 - [TheMerinoWolf/email-sieves](https://github.com/TheMerinoWolf/email-sieves) - collection of email sieves to keep a tidy inbox
 
-## Smarty 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-
 ## SourcePawn 
 
 - [jonnay/emagicians-starter-kit](https://github.com/jonnay/emagicians-starter-kit) - 🐰  My own take on an Emacs Starter Kit, with Secret Alien Org Mode Superpowers. -|-+-|-
@@ -3697,7 +3697,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [cassiozen/useStateMachine](https://github.com/cassiozen/useStateMachine) - The &lt;1 kb state machine hook for React
