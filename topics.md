@@ -293,6 +293,7 @@
 
 ## ai 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -647,10 +648,11 @@
 
 ## azure 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -809,6 +811,7 @@
 
 ## chatgpt 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1735,7 +1738,7 @@
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [hlissner/.doom.d](https://github.com/hlissner/.doom.d) - My private config for Doom Emacs
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
-- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
+- [protesilaos/denote](https://github.com/protesilaos/denote) - Efficient file-naming scheme to organise files and write notes with Emacs
 - [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
@@ -2017,7 +2020,7 @@
 ## framework 
 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [szepeviktor/running-laravel](https://github.com/szepeviktor/running-laravel) - Running Laraval framework-based web applications for long years 🪘
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -2072,6 +2075,7 @@
 
 ## generative-ai 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
@@ -2117,7 +2121,7 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [xeruf/kull](https://github.com/xeruf/kull) - Kull is a collaboration convention that preserves order through clear rules and processes
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
@@ -2710,7 +2714,7 @@
 
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 
 ## java 
@@ -2950,7 +2954,7 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [spatie/laravel-package-tools](https://github.com/spatie/laravel-package-tools) - Tools for creating Laravel packages
 - [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) - Add importing large CSV (and TSV) data feature to your Laravel models quickly and easily / Laravelにお手軽にCSVインポート機能(TSV含む、大容量対応)を追加する凄いやつだよ🚀
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [24Slides/laravel-saml2](https://github.com/24Slides/laravel-saml2) - [Laravel 5.4+] An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
@@ -3695,6 +3699,7 @@
 
 ## openai 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -5333,7 +5338,7 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [spatie/laravel-package-tools](https://github.com/spatie/laravel-package-tools) - Tools for creating Laravel packages
 - [mindplay-dk/php-vite](https://github.com/mindplay-dk/php-vite) - a lightweight PHP-backend integration package for Vite
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [lucatume/di52](https://github.com/lucatume/di52) - The dependency injection container for streamlined WordPress development. Easily manage and inject dependencies for efficient and hassle-free app creation.
@@ -5575,6 +5580,7 @@
 
 ## prompt-engineering 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
 ## publishing 
