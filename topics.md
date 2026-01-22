@@ -4355,7 +4355,7 @@
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
 - [fricklerhandwerk/settings](https://github.com/fricklerhandwerk/settings) - Nix configuration for all my computers, published for educational purposes
 - [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [bvisness/SQLJam](https://github.com/bvisness/SQLJam) - A jam project exploring new ways of querying databases.
 - [oxdi/vagrant-nixos](https://github.com/oxdi/vagrant-nixos) - Vagrant plugin to add nixos guest capabilities and nix provisioning
