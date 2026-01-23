@@ -3727,6 +3727,7 @@
 
 ## others 
 
+- [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
 - [jcrabapple/kagi-catppuccin-light-dark](https://github.com/jcrabapple/kagi-catppuccin-light-dark) - Catppuccin Mocha custom CSS for Kagi.com
 - [rmcrackan/AudiobookHub](https://github.com/rmcrackan/AudiobookHub) - Software resources for improving audiobook management
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
@@ -4492,7 +4493,7 @@
 - [jojojames/matcha](https://github.com/jojojames/matcha) - Collection of transients with a generic interface to launch them
 - [purarue/promnesia](https://github.com/purarue/promnesia) - Additional promnesia Sources for my HPI modules
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
-- [nix-community/nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
+- [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [shajra/shajra-keyboards](https://github.com/shajra/shajra-keyboards) - Nix build/flash tool for a Keyboardio Model 100/01 or ZSA Technology Labs Ergodox EZ or Moonlander keyboard
 - [manna-harbour/miryoku_qmk](https://github.com/manna-harbour/miryoku_qmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.  Miryoku QMK is the Miryoku implementation for QMK.
@@ -6869,7 +6870,7 @@
 
 ## vpn 
 
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
