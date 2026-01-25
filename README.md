@@ -383,6 +383,7 @@
 
 ## Emacs Lisp 
 
+- [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
 - [LuciusChen/discourse-graphs](https://github.com/LuciusChen/discourse-graphs) - An Emacs org-mode implementation of the Discourse Graphs protocol for knowledge synthesis.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [havarddj/typst-preview.el](https://github.com/havarddj/typst-preview.el) - Typst live preview minor mode for emacs
@@ -2903,6 +2904,7 @@
 
 ## Rust 
 
+- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
@@ -3383,7 +3385,7 @@
 - [kenorb/dotfiles](https://github.com/kenorb/dotfiles) - Various configuration files for shell.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; dotfiles-friendly; integrates with suggestions and syntax highlighting; configurable for power users.
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; dotfiles-friendly; integrates with suggestions and syntax highlighting; comprehensive documentation; configurable 
 - [base16-manager/base16-manager](https://github.com/base16-manager/base16-manager) - A command line tool to install base16 templates and set themes globally.
 - [rainglow/jetbrains](https://github.com/rainglow/jetbrains) - 320+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager [maintainer=@jfly, @michi-zuri, @vic]
