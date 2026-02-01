@@ -1556,7 +1556,6 @@
 - [jakeisnt/nixcfg](https://github.com/jakeisnt/nixcfg) - A modular, Wayland-enabled NixOS configuration.
 - [jacobfoard/dotfiles](https://github.com/jacobfoard/dotfiles) - 
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
-- [QuentinI/dotnix](https://github.com/QuentinI/dotnix) - 
 - [ericdallo/dotfiles](https://github.com/ericdallo/dotfiles) - Dotfiles for my NixOS system based on Dracula theme
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
@@ -2092,7 +2091,7 @@
 - [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [cchexcode/complate](https://github.com/cchexcode/complate) - A powerful text templating tool.
-- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from URLs [maintainer=@figsoda]
 - [rgbatty/cauldron](https://github.com/rgbatty/cauldron) - Double, double toil and trouble; Fire burn and caldron bubble - A collection of declarative user and host configurations (eg. dotfiles) managed with Nix
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
@@ -2158,7 +2157,7 @@
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [leagris/githubsieve](https://github.com/leagris/githubsieve) - Sieve Mail filtering and tagging for Gitub Notifications
-- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from URLs [maintainer=@figsoda]
 - [gregrickaby/nextjs-github-pages](https://github.com/gregrickaby/nextjs-github-pages) - 🚀 Deploy a Next.js app to GitHub Pages via GitHub Actions
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
