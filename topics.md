@@ -4626,7 +4626,7 @@
 - [abo-abo/elisp-guide](https://github.com/abo-abo/elisp-guide) - A quick guide to Emacs Lisp programming
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [healeycodes/if-sad-send-cat](https://github.com/healeycodes/if-sad-send-cat) - 🐱 A program that sends cats to my phone when I'm sad at the computer.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Google Lighthouse on your entire site.
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [myrjola/diminish.el](https://github.com/myrjola/diminish.el) - Diminished modes are minor modes with no modeline display
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
