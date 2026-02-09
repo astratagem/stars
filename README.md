@@ -1574,7 +1574,7 @@
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [nix-systems/default](https://github.com/nix-systems/default) - [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ]
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of Nix flake templates for quickly adding a reproducible environment
-- [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
+- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [SenchoPens/fromYaml](https://github.com/SenchoPens/fromYaml) - yaml parser in pure nix
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
@@ -2960,7 +2960,7 @@
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [antifuchs/sonarr-plex-cleaner](https://github.com/antifuchs/sonarr-plex-cleaner) - Garbage-collect your "broadcatching" TV library by deleting seasons that Sonarr has fully downloaded and that are completely watched in Plex.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [MolotovCherry/Yet-Another-BG3-Native-Mod-Loader](https://github.com/MolotovCherry/Yet-Another-BG3-Native-Mod-Loader) - A mod loader for Baldur's Gate 3
