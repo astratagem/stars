@@ -392,6 +392,7 @@
 
 ## api 
 
+- [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [InputUsername/listenbrainz-rs](https://github.com/InputUsername/listenbrainz-rs) - ListenBrainz API bindings for Rust
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -424,7 +425,6 @@
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## aspnet 
@@ -849,6 +849,7 @@
 
 ## cli 
 
+- [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone
@@ -1288,7 +1289,6 @@
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
-- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 
 ## deno 
 
@@ -2366,6 +2366,7 @@
 
 ## hacktoberfest 
 
+- [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [HabitRPG/habitica-ios](https://github.com/HabitRPG/habitica-ios) - Native iOS app for Habitica
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -5882,6 +5883,7 @@
 
 ## rest-api 
 
+- [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [Pierre-Lannoy/wp-keys-master](https://github.com/Pierre-Lannoy/wp-keys-master) - Powerful application passwords manager for WordPress with role-based usage control and full analytics reporting capabilities.
 - [GatoGraphQL/GatoGraphQL](https://github.com/GatoGraphQL/GatoGraphQL) - Interact with all your data in WordPress using GraphQL
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
@@ -7019,6 +7021,7 @@
 
 ## wordpress 
 
+- [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [WordPress/create-block-theme](https://github.com/WordPress/create-block-theme) - A WordPress plugin to create block themes
 - [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
 - [sultann/wordpress-site-deploy](https://github.com/sultann/wordpress-site-deploy) - Deploy wp-content using SSH and rsync with .distignore and Slack support.
