@@ -369,7 +369,7 @@
 
 ## angular 
 
-- [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - The everything modular manager and database
+- [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - The everything modular manager and database. Open source
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
@@ -1539,6 +1539,7 @@
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [NeQuissimus/DevSetup](https://github.com/NeQuissimus/DevSetup) - dotfiles and NixOS setups
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [utrack/dotfiles](https://github.com/utrack/dotfiles) - My collection of dotfiles
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
@@ -2505,7 +2506,7 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [rexim/org-cliplink](https://github.com/rexim/org-cliplink) - Insert org-mode links from clipboard
-- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
@@ -3231,7 +3232,7 @@
 - [jimeh/emacs-builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support.
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
-- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
@@ -6979,7 +6980,7 @@
 
 ## website 
 
-- [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - The everything modular manager and database
+- [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - The everything modular manager and database. Open source
 - [szepeviktor/safe-website-upgrade](https://github.com/szepeviktor/safe-website-upgrade) - Upgrade a website with comparing before and after state
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
