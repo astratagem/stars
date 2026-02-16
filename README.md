@@ -1298,7 +1298,6 @@
 - [saltyshiomix/webpack-typescript-react-starter](https://github.com/saltyshiomix/webpack-typescript-react-starter) - Webpack + TypeScript + React = ❤️
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
-- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [BBC-archive/psammead](https://github.com/BBC-archive/psammead) - React component library for BBC World Service and more
 - [fregante/object-fit-images](https://github.com/fregante/object-fit-images) - 🗻 Polyfill object-fit/object-position on &lt;img&gt;: IE9, IE10, IE11, Edge, Safari, ...
 - [fregante/iphone-inline-video](https://github.com/fregante/iphone-inline-video) - 📱 Make videos playable inline on the iPhone (prevents automatic fullscreen)
@@ -3728,6 +3727,7 @@
 - [syavorsky/comment-parser](https://github.com/syavorsky/comment-parser) - Generic JSDoc-like comment parser.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [SimeonC/storybook-xstate-addon](https://github.com/SimeonC/storybook-xstate-addon) - A storybook addon to assist with writing stories that rely on xstate
+- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [niieani/bashscript](https://github.com/niieani/bashscript) - TypeScript to bash transpiler. Because.
