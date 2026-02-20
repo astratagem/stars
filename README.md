@@ -809,7 +809,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks]
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks,@Sporif]
 - [almonk/ogpk](https://github.com/almonk/ogpk) - a cli tool for observing og data
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
@@ -3479,7 +3479,7 @@
 - [oNaiPs/dmenu-mac](https://github.com/oNaiPs/dmenu-mac) - Dmenu inspired mac port
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [th507/screen-resolution-switcher](https://github.com/th507/screen-resolution-switcher) - A simple command line screen resolution & dark-mode switcher written in Swift.
-- [vjeantet/alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on Mac OS X from the command-line.
+- [vjeantet/alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on MacOS from the command-line.
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [insidegui/DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Switch your Mac's system theme based on the ambient light intensity.
 - [bouk/dark-mode-notify](https://github.com/bouk/dark-mode-notify) - Run a script whenever dark mode changes in macOS
@@ -3612,7 +3612,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [a-ahandani/remixpress](https://github.com/a-ahandani/remixpress) - ✏ RemixPress is a presentation layer built with React, Remix, MUI and GraphQl that works with Wordress as a headless CMS
 - [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
