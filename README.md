@@ -618,7 +618,7 @@
 - [siraben/dotfiles](https://github.com/siraben/dotfiles) - A collection of my dotfiles
 - [myrjola/diminish.el](https://github.com/myrjola/diminish.el) - Diminished modes are minor modes with no modeline display
 - [d12frosted/flyspell-correct](https://github.com/d12frosted/flyspell-correct) - Distraction-free words correction with flyspell via selected interface.
-- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 60+ languages
 - [lewang/ws-butler](https://github.com/lewang/ws-butler) - Unobtrusively trim extraneous white-space *ONLY* in lines edited.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
@@ -2309,7 +2309,7 @@
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators.
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
 - [marcuskober/php-attributes](https://github.com/marcuskober/php-attributes) - In this tutorial, I will demonstrate how to utilize WordPress hooks with PHP attributes. Although it may not be necessary for every simple plugin, employing PHP attributes can be particularly useful i
 - [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries.
