@@ -6589,7 +6589,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [cyntheticfox/terranix-linode-poc](https://github.com/cyntheticfox/terranix-linode-poc) - A Proof-of-Concept for deploying NixOS to Linode with Terranix
-- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling [maintainer=@sshine, @mdarocha]
+- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling [maintainer=@sshine]
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [dflook/terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for Terraform and OpenTofu
