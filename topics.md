@@ -89,6 +89,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1928,6 +1929,10 @@
 
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
+
+## fastapi 
+
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## finance 
 
@@ -3964,7 +3969,7 @@
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [Icy-Thought/emacs.d](https://github.com/Icy-Thought/emacs.d) - A repository which contains emacs configurations I have used throughout the years.
 - [nicknovitski/nix-develop](https://github.com/nicknovitski/nix-develop) - 
-- [10up/MU-Migration](https://github.com/10up/MU-Migration) - This WP-CLI plugin makes the process of moving sites from single WordPress sites to a Multisite instance (or vice-versa) much easier. It exports everything into a zip package which can be used to auto
+- [10up/MU-Migration](https://github.com/10up/MU-Migration) - ARCHIVED: This WP-CLI plugin makes the process of moving sites from single WordPress sites to a Multisite instance (or vice-versa) much easier. It exports everything into a zip package which can be us
 - [drupol/ipc2023](https://github.com/drupol/ipc2023) - Sources of 'Leveraging Nix in the PHP ecosystem' presentation
 - [json-emacs/json-mode](https://github.com/json-emacs/json-mode) - Major mode for editing JSON files with emacs
 - [noctuid/annalist.el](https://github.com/noctuid/annalist.el) - Record and display information such as keybindings
@@ -4313,7 +4318,6 @@
 - [JayRovacsek/nix-config](https://github.com/JayRovacsek/nix-config) - My nix configs
 - [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outline folding for Emacs
 - [alleyinteractive/stage-file-proxy](https://github.com/alleyinteractive/stage-file-proxy) - Mirror (or header to) uploaded files from a remote production site on your local development copy. Saves the trouble of downloading a giant uploads directory without sacrificing the images that accomp
-- [alleyinteractive/wp-match-blocks](https://github.com/alleyinteractive/wp-match-blocks) - Match WordPress blocks in the given content.
 - [devmattrick/nixfiles-archive](https://github.com/devmattrick/nixfiles-archive) - NixOS system configs
 - [gagbo/consult-lsp](https://github.com/gagbo/consult-lsp) - LSP-mode and consult.el helping each other
 - [Gabriella439/macos-builder](https://github.com/Gabriella439/macos-builder) - Bootstrap a Linux build VM on macOS
@@ -7149,6 +7153,7 @@
 - [mindkomm/theme-lib-mix](https://github.com/mindkomm/theme-lib-mix) - A Laravel Mix function for WordPress themes.
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [alleyinteractive/wordpress-autoloader](https://github.com/alleyinteractive/wordpress-autoloader) - WordPress autoloader that follows WordPress coding standards
+- [alleyinteractive/wp-match-blocks](https://github.com/alleyinteractive/wp-match-blocks) - Match WordPress blocks in the given content.
 - [alleyinteractive/wp-caper](https://github.com/alleyinteractive/wp-caper) - Fluently distribute capabilities to roles in WordPress.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.
