@@ -313,7 +313,7 @@
 
 ## ai-agents 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
 ## ajax 
@@ -1324,7 +1324,7 @@
 
 ## developer-tools 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1429,6 +1429,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) - Multipurpose VIP Docker container images (primarily meant for use with the VIP Local Development Environment)
@@ -2210,6 +2211,7 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -2272,6 +2274,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -2444,6 +2447,7 @@
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measure
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
@@ -2922,6 +2926,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [the-nix-way/real-world-devops-with-nix](https://github.com/the-nix-way/real-world-devops-with-nix) - An example project for building containers with Nix and deploying them to Kubernetes
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -3132,7 +3137,7 @@
 
 ## llm 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -3372,7 +3377,7 @@
 
 ## mcp 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ## microservices 
 
@@ -5542,7 +5547,7 @@
 
 ## productivity 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
@@ -6106,6 +6111,7 @@
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 - [carlalexander/passwords-evolved](https://github.com/carlalexander/passwords-evolved) - WordPress password authentication for the modern era
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -6147,6 +6153,7 @@
 ## security-tools 
 
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [nccgroup/tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
@@ -6624,7 +6631,7 @@
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [figsoda/mmtc](https://github.com/figsoda/mmtc) - Minimal mpd terminal client that aims to be simple yet highly configurable
 - [doctorfree/MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
