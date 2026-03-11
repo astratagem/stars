@@ -1005,6 +1005,7 @@
 
 ## HTML 
 
+- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [SenchoPens/base16-kandinsky](https://github.com/SenchoPens/base16-kandinsky) - A base16 colorscheme based on "Yellow, Red, Blue" by Wassily Kandinsky.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
@@ -2909,7 +2910,6 @@
 
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [zacharykapank/repomap](https://github.com/zacharykapank/repomap) - 
-- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
