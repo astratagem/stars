@@ -1692,7 +1692,7 @@
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [enzuru/.emacs.d](https://github.com/enzuru/.emacs.d) - A maximalist Emacs config tracking the latest trends
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 - [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient user interface for Emacs Calc.
@@ -3743,6 +3743,8 @@
 
 ## others 
 
+- [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [mpedramfar/zotra-server](https://github.com/mpedramfar/zotra-server) - 
 - [mpedramfar/zotra](https://github.com/mpedramfar/zotra) - 
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
@@ -4387,7 +4389,7 @@
 - [oxdi/vagrant-nixos](https://github.com/oxdi/vagrant-nixos) - Vagrant plugin to add nixos guest capabilities and nix provisioning
 - [humanmade/Workflows](https://github.com/humanmade/Workflows) - Powerful workflows for WordPress
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for @LunNova's personal systems, build farm, router, and GPU cluster.
+- [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs) - Config flake for @LunNova's personal systems, build farm, router, GPU & k8s cluster.
 - [viperML/neoinfra](https://github.com/viperML/neoinfra) - Infrastucture as code
 - [colemickens/nixos-flake-example](https://github.com/colemickens/nixos-flake-example) - This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [dramforever/config](https://github.com/dramforever/config) - Random config (v2, clean history)
