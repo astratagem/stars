@@ -2048,7 +2048,6 @@
 - [szepeviktor/infrastructure-for-hosting-web-applications](https://github.com/szepeviktor/infrastructure-for-hosting-web-applications) - My policies on hosting anything web-related 💾
 - [lukecav/awesome-acf](https://github.com/lukecav/awesome-acf) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
 - [dgwyer/gutenberg-development-resources](https://github.com/dgwyer/gutenberg-development-resources) - List of resources related to Gutenberg and block development.
-- [DekodeInteraktiv/coding-standards](https://github.com/DekodeInteraktiv/coding-standards) - Dekode Coding Standards
 - [szepeviktor/how-to-operate](https://github.com/szepeviktor/how-to-operate) - THis is hot stuff on people working with web applications 🌶
 - [roots/vsce-blade-syntax](https://github.com/roots/vsce-blade-syntax) - Roots specific syntax highlighting for blade template files
 - [DavHau/edict](https://github.com/DavHau/edict) - Run nix commands on remote machines
@@ -2361,6 +2360,7 @@
 - [junaidbhura/composer-wp-pro-plugins](https://github.com/junaidbhura/composer-wp-pro-plugins) - Composer installer for Pro WordPress plugins.
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [php-stubs/wordpress-globals](https://github.com/php-stubs/wordpress-globals) - Global variables and global constants from WordPress core
+- [DekodeInteraktiv/coding-standards](https://github.com/DekodeInteraktiv/coding-standards) - Dekode Coding Standards
 - [inpsyde/Wonolog](https://github.com/inpsyde/Wonolog) - Monolog-based logging package for WordPress.
 - [Pierre-Lannoy/wp-decalog](https://github.com/Pierre-Lannoy/wp-decalog) - Capture and log events, metrics and traces on your site. Make WordPress observable - finally!
 - [Shelob9/headless-mode](https://github.com/Shelob9/headless-mode) - Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.
