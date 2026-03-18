@@ -945,7 +945,7 @@
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [relastle/pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
@@ -965,7 +965,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [dperk/wpset](https://github.com/dperk/wpset) - Set OS X 10.9+ wallpaper for all spaces on all monitors.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
@@ -3520,6 +3520,7 @@
 
 ## TypeScript 
 
+- [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
 - [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - The everything modular manager and database. Open source
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
