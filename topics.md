@@ -136,6 +136,7 @@
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
 - [jenkins](#jenkins)
+- [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -491,7 +492,7 @@
 - [lukasmasuch/best-of-react](https://github.com/lukasmasuch/best-of-react) - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
@@ -2849,6 +2850,10 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 
+## jetpack-compose 
+
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+
 ## jquery 
 
 - [pie6k/jquery.initialize](https://github.com/pie6k/jquery.initialize) - jQuery plugin for dynamically created elements initialization
@@ -2967,6 +2972,7 @@
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [scaler-tech/laravel-saml2](https://github.com/scaler-tech/laravel-saml2) - About An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
+- [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [szepeviktor/safe-website-upgrade](https://github.com/szepeviktor/safe-website-upgrade) - Upgrade a website with comparing before and after state
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
@@ -3846,7 +3852,6 @@
 - [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
 - [spwhitton/org-d20](https://github.com/spwhitton/org-d20) - Emacs minor mode for tabletop roleplaying games that use a d20
 - [Log1x/gutentweaks](https://github.com/Log1x/gutentweaks) - 
-- [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [codestify/wordforge](https://github.com/codestify/wordforge) - WordForge is a simple, opinionated SLIM MVC framework for WordPress that brings structure to plugin development
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
@@ -3932,7 +3937,6 @@
 - [php-stubs/generator](https://github.com/php-stubs/generator) - Generate stubs from any PHP code for IDE completion and static analysis.
 - [soflyy/import-users-from-csv](https://github.com/soflyy/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress
 - [pragmatedev/vilare](https://github.com/pragmatedev/vilare) - 
-- [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [retlehs/kinsta-mu-plugins](https://github.com/retlehs/kinsta-mu-plugins) - Mirror of the Kinsta MU Plugin with Composer/Bedrock support and versioning
 - [generoi/bedrock](https://github.com/generoi/bedrock) - 
 - [michaelryanmcneill/shibboleth](https://github.com/michaelryanmcneill/shibboleth) - Shibboleth plugin for WordPress
@@ -5660,7 +5664,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python.
 - [rougier/recursive-voronoi](https://github.com/rougier/recursive-voronoi) - Recursive voronoi diagram
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -6800,7 +6804,6 @@
 
 ## vagrant 
 
-- [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.3, Composer, WP-CLI and more
 - [Chassis/Chassis](https://github.com/Chassis/Chassis) - 📦  Chassis is a virtual server for your WordPress site, built using Vagrant.
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 - [bacongravy/macinbox](https://github.com/bacongravy/macinbox) - Puts macOS in a Vagrant box
@@ -7055,6 +7058,7 @@
 - [inpsyde/phpcs](https://github.com/inpsyde/phpcs) - Syde PHP coding standards for WordPress development at scale.
 - [bueltge/wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - This plugin reference elements from wp-admin in an overview with the necessary markup and CSS classes to help you to develop WordPress compliant.
 - [rnaga/wordpress-rest-admin](https://github.com/rnaga/wordpress-rest-admin) - A frontend for admin area of WordPress, using WP REST API and React. It works with Self-Hosted WordPress
+- [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
 - [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
 - [scribu/wp-hyper-admins](https://github.com/scribu/wp-hyper-admins) - Give even more power to super-admins
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
@@ -7065,6 +7069,7 @@
 - [ravorona/sage](https://github.com/ravorona/sage) - Wordpress theme, based on Sage starter theme
 - [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
+- [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [Automattic/wordpress-rs](https://github.com/Automattic/wordpress-rs) - A cross-platform WordPress API implementation
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [pantheon-systems/wp-saml-auth](https://github.com/pantheon-systems/wp-saml-auth) - Rock-solid SAML authentication for WordPress built on a modern foundation.
@@ -7146,6 +7151,7 @@
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
 - [TukuToi/better-wp-plugin-boilerplate](https://github.com/TukuToi/better-wp-plugin-boilerplate) - (Hard) Fork of WordPress Plugin Boilerplate, actively taking PRs and actively maintained. Following WordPress Coding Standards. With more features than the original.
 - [campuspress/divi-accessibility](https://github.com/campuspress/divi-accessibility) - Improve Divi accessibility in accordance with WCAG 2.0 guidelines.
+- [roots/acorn](https://github.com/roots/acorn) - Integrate Laravel functionality into WordPress projects
 - [wodby/docker4wordpress](https://github.com/wodby/docker4wordpress) - Docker-based WordPress stack
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [a-ahandani/remixpress](https://github.com/a-ahandani/remixpress) - ✏ RemixPress is a presentation layer built with React, Remix, MUI and GraphQl that works with Wordress as a headless CMS
