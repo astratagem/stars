@@ -336,6 +336,7 @@
 - [milohuang/reverie](https://github.com/milohuang/reverie) - Reverie is a versatile HTML5 responsive WordPress framework based on ZURB's Foundation.
 - [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
+- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
 - [mrjasonweaver/flexnav](https://github.com/mrjasonweaver/flexnav) - A jQuery plugin for responsive menus
 - [jonikorpi/Golden-Grid-System](https://github.com/jonikorpi/Golden-Grid-System) - A folding grid for responsive design.
@@ -1069,7 +1070,6 @@
 - [kangaskahn/playground](https://github.com/kangaskahn/playground) - Just a playground for testing and practicing git
 - [bigspotteddog/ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed) - This plugin is used to fix elements on the page (top, bottom, anywhere); however, it still allows the element to continue to move left or right with the horizontal scroll.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 
 ## Hack 
@@ -2348,7 +2348,7 @@
 - [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [Brain-WP/Hierarchy](https://github.com/Brain-WP/Hierarchy) - No-dependencies package that embodies WordPress template hierarchy
 - [szepeviktor/Toolkit4WP](https://github.com/szepeviktor/Toolkit4WP) - OOP toolkit :wrench: for daily tasks in WordPress development.
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps
 - [Log1x/sage-directives](https://github.com/Log1x/sage-directives) - A set of Blade directives for use with Roots Sage.
