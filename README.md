@@ -675,7 +675,7 @@
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [ahungry/geben](https://github.com/ahungry/geben) - Geben - PHP xdebug for Emacs
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [etu/webpaste.el](https://github.com/etu/webpaste.el) - webpaste.el can paste whole buffers or parts of buffers to several pastebin-like services and supports failover if one service fails.
 - [NixOS/nix-mode](https://github.com/NixOS/nix-mode) - An Emacs major mode for editing Nix expressions.
 - [rougier/nano-sidebar](https://github.com/rougier/nano-sidebar) - Emacs package to have configurable sidebars on a per frame basis.
@@ -2215,6 +2215,7 @@
 
 ## PHP 
 
+- [digitalnodecom/substrate](https://github.com/digitalnodecom/substrate) - AI MCP for Development with Bedrock, Acorn, Sage.
 - [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool) - m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b
 - [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
@@ -2265,7 +2266,7 @@
 - [php-stubs/generator](https://github.com/php-stubs/generator) - Generate stubs from any PHP code for IDE completion and static analysis.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) - 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed.
-- [scaler-tech/laravel-saml2](https://github.com/scaler-tech/laravel-saml2) - About An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
+- [scaler-tech/laravel-saml2](https://github.com/scaler-tech/laravel-saml2) - An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
 - [pragmatedev/vilare](https://github.com/pragmatedev/vilare) - 
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
