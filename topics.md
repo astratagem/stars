@@ -73,6 +73,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -1399,6 +1400,13 @@
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
 
+## distributed-systems 
+
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [p-org/P](https://github.com/p-org/P) - The P programming language.
+- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+
 ## django 
 
 - [fxbois/web-mode](https://github.com/fxbois/web-mode) - web template editing mode for emacs
@@ -1824,7 +1832,7 @@
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [elken/doom](https://github.com/elken/doom) - Doom Emacs config (no longer in use)
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [etu/webpaste.el](https://github.com/etu/webpaste.el) - webpaste.el can paste whole buffers or parts of buffers to several pastebin-like services and supports failover if one service fails.
 - [NixOS/nix-mode](https://github.com/NixOS/nix-mode) - An Emacs major mode for editing Nix expressions.
 - [rougier/nano-sidebar](https://github.com/rougier/nano-sidebar) - Emacs package to have configurable sidebars on a per frame basis.
@@ -2972,7 +2980,7 @@
 - [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) - Add importing large CSV (and TSV) data feature to your Laravel models quickly and easily / Laravelにお手軽にCSVインポート機能(TSV含む、大容量対応)を追加する凄いやつだよ🚀
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
-- [scaler-tech/laravel-saml2](https://github.com/scaler-tech/laravel-saml2) - About An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
+- [scaler-tech/laravel-saml2](https://github.com/scaler-tech/laravel-saml2) - An integration to add SSO to your service via SAML2 protocol based on OneLogin toolkit with support of multiple Identity Providers
 - [asuh/forage](https://github.com/asuh/forage) - Forage is a WordPress Starter Theme for custom themes using Laravel Blade, Vite, and Biome.
 - [roots/acorn-example-package](https://github.com/roots/acorn-example-package) - A template for creating your own Acorn packages
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
@@ -3752,6 +3760,7 @@
 
 ## others 
 
+- [digitalnodecom/substrate](https://github.com/digitalnodecom/substrate) - AI MCP for Development with Bedrock, Acorn, Sage.
 - [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [mpedramfar/zotra-server](https://github.com/mpedramfar/zotra-server) - 
@@ -5999,6 +6008,7 @@
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [extphprs/ext-php-rs](https://github.com/extphprs/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
