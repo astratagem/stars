@@ -1335,7 +1335,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -5341,7 +5341,7 @@
 
 ## package-manager 
 
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
@@ -6008,7 +6008,7 @@
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [extphprs/ext-php-rs](https://github.com/extphprs/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust.
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
