@@ -5432,7 +5432,7 @@
 - [boxuk/wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A skeleton WordPress project to be used as a base for new WordPress projects.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-- [roots/wp-config](https://github.com/roots/wp-config) - Bedrock's failsafe wp-config
+- [roots/wp-config](https://github.com/roots/wp-config) - Fluent configuration management for WordPress
 - [aimeos/map](https://github.com/aimeos/map) - PHP arrays and collections made easy
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
@@ -7192,7 +7192,7 @@
 - [Automattic/vip-go-mu-plugins](https://github.com/Automattic/vip-go-mu-plugins) - The development repo for mu-plugins used on the WordPress VIP Platform.
 - [boxuk/wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A skeleton WordPress project to be used as a base for new WordPress projects.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
-- [roots/wp-config](https://github.com/roots/wp-config) - Bedrock's failsafe wp-config
+- [roots/wp-config](https://github.com/roots/wp-config) - Fluent configuration management for WordPress
 - [webredone/theme-redone](https://github.com/webredone/theme-redone) - Theme Redone is a custom WordPress theme starter/framework with its own Gutenberg blocks solution and a CLI that speeds up the block creation process.
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
