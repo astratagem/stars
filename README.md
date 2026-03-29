@@ -2442,7 +2442,7 @@
 - [boxuk/wp-project-skeleton](https://github.com/boxuk/wp-project-skeleton) - A skeleton WordPress project to be used as a base for new WordPress projects.
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Log in to WordPress with secure passwordless magic links.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-- [roots/wp-config](https://github.com/roots/wp-config) - Bedrock's failsafe wp-config
+- [roots/wp-config](https://github.com/roots/wp-config) - Fluent configuration management for WordPress
 - [tekapo/show-current-template](https://github.com/tekapo/show-current-template) - A WordPress plugin which shows the current template file name, the current theme name and included template files' name in the tool bar.
 - [humanmade/aws-xray](https://github.com/humanmade/aws-xray) - HM Platform AWS X-Ray Integration
 - [webredone/theme-redone](https://github.com/webredone/theme-redone) - Theme Redone is a custom WordPress theme starter/framework with its own Gutenberg blocks solution and a CLI that speeds up the block creation process.
