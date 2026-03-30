@@ -881,7 +881,7 @@
 - [f100024/syncthing_exporter](https://github.com/f100024/syncthing_exporter) - Syncthing metrics exporter for prometheus
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [dmacvicar/terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -2492,8 +2492,8 @@
 - [htmlburger/wpemerge](https://github.com/htmlburger/wpemerge) - A modern, MVC-powered WordPress as a CMS workflow. 🚀
 - [WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards) - PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
-- [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - WordPress plugin that provides instant switching between user accounts.
-- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - Take control of the cron events on your WordPress website
+- [johnbillion/user-switching](https://github.com/johnbillion/user-switching) - Instant switching between user accounts in WordPress and WooCommerce.
+- [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) - Take control of the cron events on your WordPress website or WooCommerce store
 - [reaktivstudios/locomotive](https://github.com/reaktivstudios/locomotive) - Allow developers to easily register batch processes through code, and run them through the admin UI
 - [micropackage/dochooks](https://github.com/micropackage/dochooks) - WordPress hooks in method comments. Annotated hooks.
 - [WPBP/WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
@@ -2521,7 +2521,7 @@
 - [snicco/snicco](https://github.com/snicco/snicco) - Taking the pain out of enterprise WordPress development
 - [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) - WordPress Hosting Team Handbook
 - [alleyinteractive/wp-find-one](https://github.com/alleyinteractive/wp-find-one) - Query for and return one WordPress post, term, or other object, bypassing intermediate arrays.
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress and WooCommerce
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [alleyinteractive/traverse-reshape](https://github.com/alleyinteractive/traverse-reshape) - Safely break down arrays or objects, and put them back together in new shapes.
 - [RefactoringGuru/design-patterns-php](https://github.com/RefactoringGuru/design-patterns-php) - Design Pattern Examples in PHP
@@ -2917,7 +2917,7 @@
 
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [zacharykapank/repomap](https://github.com/zacharykapank/repomap) - 
-- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
+- [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [ramsayleung/rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented on Rust
@@ -3754,7 +3754,7 @@
 - [roderickhsiao/react-in-viewport](https://github.com/roderickhsiao/react-in-viewport) - Detect if React component is in viewport
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
-- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [screeny05/letterboxd-list-radarr](https://github.com/screeny05/letterboxd-list-radarr) - Connect radarr to letterboxd.com lists
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [open5e/open5e](https://github.com/open5e/open5e) - An SRD and open-source material reference site for 5th edition D&D
