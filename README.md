@@ -1606,7 +1606,6 @@
 - [tejing1/nixos-config](https://github.com/tejing1/nixos-config) - Tejing's personal NixOS configuration flake
 - [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles) - My NixOS dotfiles. Friends call it Bird OS.
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
-- [michalrus/dotfiles](https://github.com/michalrus/dotfiles) - 
 - [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
@@ -2671,7 +2670,6 @@
 - [gtronset/beets-filetote](https://github.com/gtronset/beets-filetote) - A plugin for beets that moves non-music files during import & other operations.
 - [PneumaSolutions/shib-sp](https://github.com/PneumaSolutions/shib-sp) - Containerized Shibboleth SP
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -3126,7 +3124,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
-- [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
+- [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development.
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
