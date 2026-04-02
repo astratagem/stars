@@ -1405,7 +1405,6 @@
 - [lkwdwrd/generator-vvv](https://github.com/lkwdwrd/generator-vvv) - Yeoman generator for VVV auto site setup
 - [HBRGTech/daisy](https://github.com/HBRGTech/daisy) - daisy is a vagrant and grunt-powered Pattern Lab, derivative work from hbr.org's 2014 redesign.
 - [maciejczyzewski/hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface:
-- [michelson/Dante](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone
 - [wp-shortcake/shortcake](https://github.com/wp-shortcake/shortcake) - Shortcake makes using WordPress shortcodes a piece of cake.
 - [sewpafly/post-thumbnail-editor](https://github.com/sewpafly/post-thumbnail-editor) - Wordpress Plugin to manually edit post thumbnails
 - [RealFaviconGenerator/grunt-real-favicon](https://github.com/RealFaviconGenerator/grunt-real-favicon) - Generate a multiplatform favicon with RealFaviconGenerator
@@ -3760,6 +3759,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [sebpiq/WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [michelson/Dante](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## Typst 
