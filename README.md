@@ -1509,7 +1509,6 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [syvanpera/nix-config](https://github.com/syvanpera/nix-config) - My NixOS configuration
-- [khuedoan/dotfiles](https://github.com/khuedoan/dotfiles) - nvim, tmux, zsh, fzf, sway, and more!
 - [Alyxdev-xyz/Hammerspoon-Yabai](https://github.com/Alyxdev-xyz/Hammerspoon-Yabai) - My personal macOS window manager setup
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
@@ -2937,7 +2936,7 @@
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [eyre-rs/eyre](https://github.com/eyre-rs/eyre) - A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -3238,6 +3237,7 @@
 - [zilexa/Homeserver](https://github.com/zilexa/Homeserver) - Lightweight home server based on microservices, usable as desktop workstation
 - [wp-hooks/wordpress-core-hooks](https://github.com/wp-hooks/wordpress-core-hooks) - WordPress core actions and filters as JSON
 - [alainwolf/roll.urown.net](https://github.com/alainwolf/roll.urown.net) - How to roll your own private self-hosted internet services.
+- [khuedoan/dotfiles](https://github.com/khuedoan/dotfiles) - nvim, tmux, zsh, fzf, sway, and more!
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tombetthauser/zine-garden](https://github.com/tombetthauser/zine-garden) - An endless garden of zines. Create printable pdfs, upload them, search for zines, download them, print them etc.
 - [64kramsystem/zfs-installer](https://github.com/64kramsystem/zfs-installer) - Program that prepares ZFS on a system, and installs Linux
