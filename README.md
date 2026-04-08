@@ -1652,6 +1652,7 @@
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server
 - [ethnt/tilde](https://github.com/ethnt/tilde) - macOS configuration via Nix
 - [ethnt/barbossa](https://github.com/ethnt/barbossa) - Home server with HTPC, TIG stack, ELK stack, Nginx, and a Time Machine Capsule on NixOS.
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [jammus/dotfiles](https://github.com/jammus/dotfiles) - 
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
@@ -3004,7 +3005,6 @@
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [cchexcode/complate](https://github.com/cchexcode/complate) - A powerful text templating tool.
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
