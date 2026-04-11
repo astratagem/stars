@@ -1143,6 +1143,7 @@
 
 ## JavaScript 
 
+- [ACK-J/Port_Authority](https://github.com/ACK-J/Port_Authority) - Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
 - [mpedramfar/zotra-server](https://github.com/mpedramfar/zotra-server) - 
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1610,7 +1611,6 @@
 - [tejing1/nixos-config](https://github.com/tejing1/nixos-config) - Tejing's personal NixOS configuration flake
 - [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles) - My NixOS dotfiles. Friends call it Bird OS.
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
-- [Ramblurr/nixcfg](https://github.com/Ramblurr/nixcfg) - ❄️ My nix flake for all my NixOS machines.
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
@@ -2656,6 +2656,7 @@
 
 ## Python 
 
+- [wgantt/reasoning-models-lie](https://github.com/wgantt/reasoning-models-lie) - Companion code for the paper "Reasoning Models Will Blatantly Lie About Their Reasoning"
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - The ultimate all-in-one guide to mastering Claude Code. From setup, prompt engineering, commands, hooks, workflows, automation, and integrations, to MCP servers, tools, and the BMAD method—packed with
 - [joaotavora/rassumfrassum](https://github.com/joaotavora/rassumfrassum) - LSP fanfare
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -3152,7 +3153,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [frenkel/timer-for-harvest](https://github.com/frenkel/timer-for-harvest) - Harvest time tracking client implemented using GTK and Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
