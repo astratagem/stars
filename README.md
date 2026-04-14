@@ -1152,7 +1152,7 @@
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [corn-config/tree-sitter-corn](https://github.com/corn-config/tree-sitter-corn) - Tree-Sitter and syntax highlighting support for Corn configuration language
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
-- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - 
+- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - Custom Gutenberg blocks created by our team.
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [godaddy-wordpress/coblocks](https://github.com/godaddy-wordpress/coblocks) - A suite of professional page building content blocks for the WordPress Gutenberg block editor.
 - [humanmade/block-editor-components](https://github.com/humanmade/block-editor-components) - Reusable components, hooks and helper functions for the WordPress block editor(s).
