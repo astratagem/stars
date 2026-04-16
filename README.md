@@ -1540,6 +1540,7 @@
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [evantravers/hammerspoon-config](https://github.com/evantravers/hammerspoon-config) - My personal Hammerspoon setup
+- [dave-tucker/dotfiles](https://github.com/dave-tucker/dotfiles) - My dotfiles
 
 ## M4 
 
@@ -2222,6 +2223,7 @@
 
 ## PHP 
 
+- [roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown) - A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
 - [unlocnl/composer-compatibility-enforcer](https://github.com/unlocnl/composer-compatibility-enforcer) - 
 - [roots/sage-child-example](https://github.com/roots/sage-child-example) - Experimental Sage v11 child theme
 - [digitalnodecom/substrate](https://github.com/digitalnodecom/substrate) - AI MCP for Development with Bedrock, Acorn, Sage.
@@ -3454,7 +3456,6 @@
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [dave-tucker/dotfiles](https://github.com/dave-tucker/dotfiles) - My dotfiles
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [necolas/dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
 - [ericmann/vvv-apache](https://github.com/ericmann/vvv-apache) - Apache-based fork of 10up's Varying Vagrant Vagrants configuration
@@ -3740,7 +3741,7 @@
 - [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [deepsweet/foxr](https://github.com/deepsweet/foxr) - 🦊 Node.js API to control Firefox
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [mocoding-software/redux-automata](https://github.com/mocoding-software/redux-automata) - Finite state automaton for Redux.
@@ -3801,7 +3802,6 @@
 - [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) - My [NeoVim + Tmux + Fish Shell] Setup /w install scripts
 - [kalkayan/dotfiles](https://github.com/kalkayan/dotfiles) - Dotfiles or you can say my swiss army knife. Configs for creating a delightful development experience - vim + tmux + Fzf + Rg + LSP etc.
 - [softinio/dotfiles](https://github.com/softinio/dotfiles) - Salar Rahmanian's dotfiles
-- [grawity/dotfiles](https://github.com/grawity/dotfiles) - ~/.dotfiles
 - [gverilla/dotfiles](https://github.com/gverilla/dotfiles) - 
 - [vsund/dotfiles](https://github.com/vsund/dotfiles) - Some things that live in ~/ at my machines
 - [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone) - A dark, monochrome colorscheme for vim
