@@ -118,6 +118,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
@@ -2377,6 +2378,10 @@
 - [astroidmail/astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
 - [simple64/simple64-gui](https://github.com/simple64/simple64-gui) - mupen64plus GUI written in Qt6
 
+## hack 
+
+- [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
+
 ## hacking 
 
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
@@ -4108,7 +4113,6 @@
 - [neeasade/emacs.d](https://github.com/neeasade/emacs.d) - forest
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
-- [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [positron-solutions/user-keys](https://github.com/positron-solutions/user-keys) - The keyboard belongs to the user
 - [abo-abo/orca](https://github.com/abo-abo/orca) - ORg CApture
 - [milkypostman/dotemacs](https://github.com/milkypostman/dotemacs) - .emacs.d
