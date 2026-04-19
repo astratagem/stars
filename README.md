@@ -2223,7 +2223,7 @@
 
 ## PHP 
 
-- [roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown) - A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
+- [roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown) - A WordPress plugin that serves post content as Markdown via Accept headers, .md URLs, and query parameters.
 - [unlocnl/composer-compatibility-enforcer](https://github.com/unlocnl/composer-compatibility-enforcer) - 
 - [roots/sage-child-example](https://github.com/roots/sage-child-example) - Experimental Sage v11 child theme
 - [digitalnodecom/substrate](https://github.com/digitalnodecom/substrate) - AI MCP for Development with Bedrock, Acorn, Sage.
