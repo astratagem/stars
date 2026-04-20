@@ -1002,7 +1002,7 @@
 
 ## clojure 
 
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
@@ -1110,7 +1110,7 @@
 
 ## compiler 
 
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2969,7 +2969,7 @@
 
 - [corn-config/corn](https://github.com/corn-config/corn) - 🌽 A simple and pain-free configuration language. Reference libcorn implementation and CLI.
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [vito/bass](https://github.com/vito/bass) - a low fidelity scripting language for project infrastructure
@@ -5406,7 +5406,7 @@
 - [lucatume/di52](https://github.com/lucatume/di52) - The dependency injection container for streamlined WordPress development. Easily manage and inject dependencies for efficient and hassle-free app creation.
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [thephpleague/uri](https://github.com/thephpleague/uri) - [READ-ONLY] URI manipulation Library
@@ -5622,7 +5622,7 @@
 
 ## programming-language 
 
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
