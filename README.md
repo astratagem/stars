@@ -2311,7 +2311,7 @@
 - [WordPress/wp-movies-demo](https://github.com/WordPress/wp-movies-demo) - Demo of the Interactivity API
 - [WordPress/wp-plugin-dependencies](https://github.com/WordPress/wp-plugin-dependencies) - WordPress Feature Project: Plugin Dependencies
 - [inpsyde/wp-app-container](https://github.com/inpsyde/wp-app-container) - DI Container and related tools to be used at website level.
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [10up/MU-Migration](https://github.com/10up/MU-Migration) - ARCHIVED: This WP-CLI plugin makes the process of moving sites from single WordPress sites to a Multisite instance (or vice-versa) much easier. It exports everything into a zip package which can be us
 - [alleyinteractive/wp-type-extensions](https://github.com/alleyinteractive/wp-type-extensions) - A vocabulary of objects for WordPress projects.
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
