@@ -233,7 +233,7 @@
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -2029,7 +2029,7 @@
 - [Chivv/deploy-radicle-to-kinsta](https://github.com/Chivv/deploy-radicle-to-kinsta) - Automated deployments to Kinsta environments (development and production) using GitHub Actions with environment-specific configurations, SSH, Composer, and NPM integration.
 - [sc0ttkclark/wordpress-fields-api](https://github.com/sc0ttkclark/wordpress-fields-api) - The 2024 Fields API proposal for WordPress Core
 - [alleyinteractive/action-deploy-to-server](https://github.com/alleyinteractive/action-deploy-to-server) - This GitHub action should facilitate deploying to remote server locations via rsync.
-- [WordPress/book](https://github.com/WordPress/book) - Our book about WordPress. Version 1
+- [WordPress/library](https://github.com/WordPress/library) - Our book about WordPress. Volume 1, first ten years
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [dot-config/dot-config.github.io](https://github.com/dot-config/dot-config.github.io) - dot-config promotes use of .config folders for project level settings
 - [yantar92/emacs-config](https://github.com/yantar92/emacs-config) - My personal Emacs configuration
@@ -2222,7 +2222,7 @@
 
 ## PHP 
 
-- [roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown) - A WordPress plugin that serves post content as Markdown via Accept headers, .md URLs, and query parameters.
+- [roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown) - A WordPress plugin that serves post content as Markdown via Accept headers and .md URLs
 - [unlocnl/composer-compatibility-enforcer](https://github.com/unlocnl/composer-compatibility-enforcer) - 
 - [roots/sage-child-example](https://github.com/roots/sage-child-example) - Experimental Sage v11 child theme
 - [digitalnodecom/substrate](https://github.com/digitalnodecom/substrate) - AI MCP for Development with Bedrock, Acorn, Sage.
@@ -2733,7 +2733,7 @@
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [s0md3v/Breacher](https://github.com/s0md3v/Breacher) - An advanced multithreaded admin panel finder written in python.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
