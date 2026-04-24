@@ -801,6 +801,8 @@
 
 ## Go 
 
+- [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface.
+- [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [roots/wp-packages](https://github.com/roots/wp-packages) - Manage your WordPress plugins and themes with Composer
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
@@ -1794,7 +1796,7 @@
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [bhougland18/nixos_config](https://github.com/bhougland18/nixos_config) - Nixos configuration
 - [cyntheticfox/terranix-linode-poc](https://github.com/cyntheticfox/terranix-linode-poc) - A Proof-of-Concept for deploying NixOS to Linode with Terranix
-- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a terraform.json generator with a nix-like feeling [maintainer=@sshine]
+- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a Nix-based Terraform JSON generator [maintainer=@sshine]
 - [lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros) - FoosterOS/2 Warp - NixOS-based system configuration for my computers
 - [johnae/world](https://github.com/johnae/world) - NixOS configuration
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
@@ -2133,7 +2135,7 @@
 - [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity) - An awesome list of self-sovereign identity resources.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) - The entire collection of San Francisco Pro Fonts
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [arachne-framework/architecture](https://github.com/arachne-framework/architecture) - Repository of Architecture Decision Records
@@ -2659,6 +2661,7 @@
 
 ## Python 
 
+- [rougier/braincraft](https://github.com/rougier/braincraft) - Braincraft challenge —  1000 neurons, 100 seconds, 10 runs, 2 choices, no reward
 - [wgantt/reasoning-models-lie](https://github.com/wgantt/reasoning-models-lie) - Companion code for the paper "Reasoning Models Will Blatantly Lie About Their Reasoning"
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - The ultimate all-in-one guide to mastering Claude Code. From setup, prompt engineering, commands, hooks, workflows, automation, and integrations, to MCP servers, tools, and the BMAD method—packed with
 - [joaotavora/rassumfrassum](https://github.com/joaotavora/rassumfrassum) - LSP fanfare
@@ -2701,7 +2704,7 @@
 - [zcutlip/prefsniff](https://github.com/zcutlip/prefsniff) - A utility to sniff preferences changes to macOS plist files
 - [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
 - [nickstenning/honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [ilaria-manco/song-describer](https://github.com/ilaria-manco/song-describer) - Song Describer is a data collection platform for annotating music with textual descriptions.
 - [jya-dev/supernote-tool](https://github.com/jya-dev/supernote-tool) - Unofficial python tool for Supernote
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -2844,7 +2847,6 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
-- [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
