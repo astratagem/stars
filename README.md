@@ -802,6 +802,7 @@
 
 ## Go 
 
+- [readium/cli](https://github.com/readium/cli) - ⌨️ A CLI utility with support for a wide range of commands for ebooks, comics and audiobooks
 - [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface.
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
@@ -1322,7 +1323,7 @@
 - [beizhedenglong/react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks.
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
+- [nilbuild/pennywise](https://github.com/nilbuild/pennywise) - Cross-platform application to open any website or media in a floating window
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
@@ -2661,6 +2662,7 @@
 
 ## Python 
 
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [rougier/braincraft](https://github.com/rougier/braincraft) - Braincraft challenge —  1000 neurons, 100 seconds, 10 runs, 2 choices, no reward
 - [wgantt/reasoning-models-lie](https://github.com/wgantt/reasoning-models-lie) - Companion code for the paper "Reasoning Models Will Blatantly Lie About Their Reasoning"
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - The ultimate all-in-one guide to mastering Claude Code. From setup, prompt engineering, commands, hooks, workflows, automation, and integrations, to MCP servers, tools, and the BMAD method—packed with
@@ -3535,6 +3537,7 @@
 
 ## TypeScript 
 
+- [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
 - [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - The everything modular manager and database. Open source
@@ -3672,7 +3675,7 @@
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) - 
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - CIDR Calculator and Subnetting Visualizer
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
