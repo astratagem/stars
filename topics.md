@@ -2399,6 +2399,7 @@
 
 ## hacktoberfest 
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [HabitRPG/habitica-ios](https://github.com/HabitRPG/habitica-ios) - Native iOS app for Habitica
@@ -3777,6 +3778,7 @@
 
 ## others 
 
+- [niri-wm/artwork](https://github.com/niri-wm/artwork) - Artwork and wallpapers for the niri ecosystem [Maintainer - @bluelinden]
 - [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface.
 - [unlocnl/composer-compatibility-enforcer](https://github.com/unlocnl/composer-compatibility-enforcer) - 
@@ -5071,7 +5073,7 @@
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [Osse/git-scripts](https://github.com/Osse/git-scripts) - A collection of useful Git commands
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - Database layer for org-mode notes with async indexing, rich queries, backlink discovery, and external change detection. Scales to 100k+ notes.
-- [morepurplemorebetter/MPMBs-Character-Record-Sheet](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet) - MorePurpleMoreBetter's D&D 5e Character Record Sheet
+- [morepurplemorebetter/MPMBs-Character-Record-Sheet](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet) - MorePurpleMoreBetter's D&D 5e (2014) Character Record Sheet
 - [stifynsemons/ke-chording](https://github.com/stifynsemons/ke-chording) - Extend Karabiner-Element to support chording
 - [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts) - My collection of bitmap fonts pulled from various demoscene archives over the years
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -5396,6 +5398,7 @@
 
 ## php 
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [inpsyde/objects-hooks-remover](https://github.com/inpsyde/objects-hooks-remover) - Package to remove WordPress hook callbacks that uses object methods or closures.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
