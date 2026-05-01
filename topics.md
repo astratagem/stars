@@ -1615,7 +1615,7 @@
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [make-github-pseudonymous-again/dotfiles](https://github.com/make-github-pseudonymous-again/dotfiles) - :wrench: ~/. dotfiles for Arch Linux
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
-- [evanpurkhiser/dots-personal](https://github.com/evanpurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
+- [evanpurkhiser/dots-personal](https://github.com/evanpurkhiser/dots-personal) - My personal dotfiles. Uses evanpurkhiser/dots for installation
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
@@ -2400,6 +2400,7 @@
 
 ## hacktoberfest 
 
+- [pluginkollektiv/antispam-bee](https://github.com/pluginkollektiv/antispam-bee) - „... another popular solution to fight spam is Antispam Bee“ – Matt Mullenweg, Q&A WordCamp Europe 2014
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
@@ -7083,6 +7084,7 @@
 
 ## wordpress 
 
+- [pluginkollektiv/antispam-bee](https://github.com/pluginkollektiv/antispam-bee) - „... another popular solution to fight spam is Antispam Bee“ – Matt Mullenweg, Q&A WordCamp Europe 2014
 - [roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown) - A WordPress plugin that serves post content as Markdown via Accept headers and .md URLs
 - [roots/wp-packages](https://github.com/roots/wp-packages) - Manage your WordPress plugins and themes with Composer
 - [roots/sage-child-example](https://github.com/roots/sage-child-example) - Experimental Sage v11 child theme
