@@ -427,7 +427,7 @@
 - [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
 - [emacs-sideline/sideline](https://github.com/emacs-sideline/sideline) - Show information on the side
-- [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [emacsmirror/nerd-icons](https://github.com/emacsmirror/nerd-icons) - Emacs Nerd Font Icons Library
 - [alphapapa/org-bookmark-heading](https://github.com/alphapapa/org-bookmark-heading) - Emacs bookmark support for Org-mode
@@ -1129,6 +1129,7 @@
 
 ## Java 
 
+- [mafik/echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -3543,6 +3544,7 @@
 
 ## TypeScript 
 
+- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
