@@ -4323,7 +4323,7 @@
 - [jenspfahl/BDT](https://github.com/jenspfahl/BDT) - Break.Down.Timer
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [fpco/terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [mcgirr/terraform-nixos-nginx-webserver](https://github.com/mcgirr/terraform-nixos-nginx-webserver) - An example of a basic Terraform project and modules that create the AWS infrastructure for a webserver on NixOS
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
