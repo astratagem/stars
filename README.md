@@ -258,6 +258,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [GPGTools/pinentry](https://github.com/GPGTools/pinentry) - 
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+- [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic) - Dynamic wallpaper plugin for KDE Plasma
@@ -1129,6 +1130,7 @@
 
 ## Java 
 
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [mafik/echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -1836,7 +1838,6 @@
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@thiagokokada]
 - [purcell/nix-emacs-ci](https://github.com/purcell/nix-emacs-ci) - Emacs builds for continuous integration
 - [yuanw/nix-home](https://github.com/yuanw/nix-home) - My Nix dotfiles on MacOS/NixOS
-- [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [balsoft/nixos-config](https://github.com/balsoft/nixos-config) - Mirror of https://code.balsoft.ru/balsoft/nixos-config
 - [yipengsun/nix-config](https://github.com/yipengsun/nix-config) - My NixOS/nix-darwin config
@@ -3463,7 +3464,7 @@
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [bradp/vv](https://github.com/bradp/vv) - :globe_with_meridians: Variable VVV - a VVV Site Creation Wizard.‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ :x: This project is 
 - [goblindegook/VVV-Redis](https://github.com/goblindegook/VVV-Redis) - Add Redis to your VVV setup
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [rupa/z](https://github.com/rupa/z) - z - jump around
