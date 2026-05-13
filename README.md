@@ -909,7 +909,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [zsa/wally](https://github.com/zsa/wally) - The Flash(ing tool)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -1486,6 +1486,7 @@
 
 ## Kotlin 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
@@ -2599,7 +2600,6 @@
 - [lesterchan/wp-pagenavi](https://github.com/lesterchan/wp-pagenavi) - Adds a more advanced paging navigation interface to your WordPress blog.
 - [thebrandonallen/edit-author-slug](https://github.com/thebrandonallen/edit-author-slug) - WordPress plugin that allows an admin (or capable user) to edit the author slug of a user, and change the author base. New development takes place on the 'develop' branch.
 - [michelf/php-smartypants](https://github.com/michelf/php-smartypants) - Web typography prettifyier tools derived from the original SmartyPants.pl by John Gruber.
-- [joshtronic/php-loremipsum](https://github.com/joshtronic/php-loremipsum) - Lorem ipsum generator in PHP without dependencies.
 - [kasparsd/feed-image-enclosure](https://github.com/kasparsd/feed-image-enclosure) - Add featured images as enclosures in RSS feeds
 - [alleyinteractive/sublime-text-php-wordpress](https://github.com/alleyinteractive/sublime-text-php-wordpress) - Sublime Text PHP replacement, which adheres to WordPress coding standards
 - [LucaRosaldi/wpfn-notifications](https://github.com/LucaRosaldi/wpfn-notifications) - WordPress Frontend Notifications. Because notifications are for everyone, not only for admins.
