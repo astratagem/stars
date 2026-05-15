@@ -450,6 +450,7 @@
 
 ## atom 
 
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
 
 ## automation 
@@ -764,7 +765,7 @@
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS dotfiles
@@ -1003,7 +1004,7 @@
 - [Ezwen/bandcamp-collection-downloader](https://github.com/Ezwen/bandcamp-collection-downloader) - A command-line tool to automatically download all releases purchased with a Bandcamp account. The official page of the project is https://framagit.org/Ezwen/bandcamp-collection-downloader, while here 
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [sindresorhus/dark-mode-cli](https://github.com/sindresorhus/dark-mode-cli) - Control the macOS dark mode from the command-line
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
@@ -1643,7 +1644,7 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [Addvilz/dots](https://github.com/Addvilz/dots) - Completely automated desktop setup, configuration and maintenance using Ansible
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
@@ -1720,6 +1721,7 @@
 - [blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster) - Emacs LSP performance booster
 - [unmonoqueteclea/jira.el](https://github.com/unmonoqueteclea/jira.el) - Emacs integration for Altassian's Jira.  Support listing and filtering issues, showing their details, modifying some of their properties or adding worklogs.
 - [emacs-sideline/sideline](https://github.com/emacs-sideline/sideline) - Show information on the side
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [remyhonig/elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [enzuru/.emacs.d](https://github.com/enzuru/.emacs.d) - A maximalist Emacs config tracking the latest trends
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
@@ -3177,7 +3179,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
@@ -3342,7 +3344,7 @@
 - [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
 - [julian-heng/yabai-config](https://github.com/julian-heng/yabai-config) - My personal Yabai and Skhd configs and scripts.
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [sindresorhus/dark-mode-cli](https://github.com/sindresorhus/dark-mode-cli) - Control the macOS dark mode from the command-line
 - [kkga/nibar](https://github.com/kkga/nibar) - Simple Übersicht status bar with yabai support.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -3937,7 +3939,6 @@
 - [tinted-theming/schemes](https://github.com/tinted-theming/schemes) - A common location to store all color scheme data for the Tinted theming project
 - [vinceliuice/Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme) - Tela-circle-icon-theme
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
-- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [emacsmirror/nerd-icons](https://github.com/emacsmirror/nerd-icons) - Emacs Nerd Font Icons Library
 - [alphapapa/org-bookmark-heading](https://github.com/alphapapa/org-bookmark-heading) - Emacs bookmark support for Org-mode
@@ -6386,7 +6387,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -6624,7 +6625,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -6726,7 +6727,7 @@
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 
 ## twitter 
 
@@ -7449,7 +7450,7 @@
 - [abhigenie92/zsh_to_fish](https://github.com/abhigenie92/zsh_to_fish) - How to make zsh like fish?
 - [inscapist/dotfiles](https://github.com/inscapist/dotfiles) - My dotfiles - Emacs centric OSX Big Sur
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac
 - [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
