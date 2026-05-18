@@ -4755,7 +4755,7 @@
 - [kaii-zen/rnix-lsp](https://github.com/kaii-zen/rnix-lsp) - WIP Language Server for Nix! [maintainer=@jD91mZM2]
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [graninas/The-Voids-Of-Haskell](https://github.com/graninas/The-Voids-Of-Haskell) - 
-- [foreverphoenix/the-phoenix-flavour](https://github.com/foreverphoenix/the-phoenix-flavour) - A Skyrim SE modding guide.
+- [foreverphoenix/the-phoenix-flavour](https://github.com/foreverphoenix/the-phoenix-flavour) - A Wabbajack list for Skyrim Special Edition.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [TitansBane/Elysium](https://github.com/TitansBane/Elysium) - Elysium is a visually focused list that is fully featured with hundreds of new additions and optional Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls
 - [wabbajack-tools/wabbajack](https://github.com/wabbajack-tools/wabbajack) - An automated Modlist installer for various games.
@@ -4782,7 +4782,7 @@
 - [aciceri/nixfleet](https://github.com/aciceri/nixfleet) - A complete, declarative and reproducible configuration of my entire Nix fleet.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [sei40kr/idea-doom-emacs](https://github.com/sei40kr/idea-doom-emacs) - Doom Emacs key bindings in IdeaVim
-- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly]
+- [NixOS/infra](https://github.com/NixOS/infra) - Infrastructure as Code for the NixOS.org ecosystem [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly]
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [asppsa/archlinux-nix](https://github.com/asppsa/archlinux-nix) - Bash script for managing the Nix package manager on Arch Linux
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
