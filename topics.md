@@ -3835,7 +3835,7 @@
 - [whit3rabbit/lipgloss-rs](https://github.com/whit3rabbit/lipgloss-rs) - A rust port of https://github.com/charmbracelet/lipgloss
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - 
+- [NixOS/steering-committee](https://github.com/NixOS/steering-committee) - Public material from the NixOS Steering Committee
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [vsheg/formal](https://github.com/vsheg/formal) - A template collection for Typst to create professional and formal documents
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
@@ -4176,7 +4176,7 @@
 - [lg/yabai-and-skhd-highlighting](https://github.com/lg/yabai-and-skhd-highlighting) - yabai and skhd syntax highlighting for vscode
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [flakelib/fl](https://github.com/flakelib/fl) - callPackage for Nix flakes
 - [torenware/ddev-viteserve](https://github.com/torenware/ddev-viteserve) - An add-on to run the Vite dev server from inside the DDEV environment.
