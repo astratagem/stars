@@ -878,6 +878,8 @@
 
 ## cli 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [readium/cli](https://github.com/readium/cli) - ⌨️ A CLI utility with support for a wide range of commands for ebooks, comics and audiobooks
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1073,6 +1075,7 @@
 
 ## command-line 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [BurntSushi/biff](https://github.com/BurntSushi/biff) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -2225,6 +2228,7 @@
 
 ## go 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [rszyma/kanata-tray](https://github.com/rszyma/kanata-tray) - Tray Icon for Kanata
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
@@ -2285,6 +2289,7 @@
 
 ## golang 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [readium/cli](https://github.com/readium/cli) - ⌨️ A CLI utility with support for a wide range of commands for ebooks, comics and audiobooks
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
@@ -3796,6 +3801,7 @@
 
 ## others 
 
+- [marcel-za/wp-theme-blockaide](https://github.com/marcel-za/wp-theme-blockaide) - A lightweight WordPress helper utility that automatically disables the Full Site Editor (FSE) on Staging and Production environments. Protects file-based block themes from database template overrides 
 - [copier-org/copier-template-extensions](https://github.com/copier-org/copier-template-extensions) - Special Jinja2 extension for Copier that allows to load extensions using file paths relative to the template root instead of Python dotted paths.
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser) - True AI-Native Browser — a VLM reads the HTML and hallucinates the page.
 - [mafik/echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
@@ -4941,7 +4947,6 @@
 - [xenodium/company-org-block](https://github.com/xenodium/company-org-block) - 
 - [google/tachometer](https://github.com/google/tachometer) - Statistically rigorous benchmark runner for the web
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
-- [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [nyyManni/ejira](https://github.com/nyyManni/ejira) - Emacs JIRA integration
 - [skeeto/skewer-mode](https://github.com/skeeto/skewer-mode) - Live web development in Emacs
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
@@ -5611,6 +5616,7 @@
 
 ## productivity 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
@@ -5689,6 +5695,7 @@
 
 ## python 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [rougier/braincraft](https://github.com/rougier/braincraft) - Braincraft challenge —  1000 neurons, 100 seconds, 10 runs, 2 choices, no reward
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
@@ -6549,6 +6556,8 @@
 
 ## terminal 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -6695,6 +6704,8 @@
 
 ## tui 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
