@@ -1172,6 +1172,7 @@
 
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
+- [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [emacs-eldev/eldev](https://github.com/emacs-eldev/eldev) - Elisp development tool
@@ -1360,6 +1361,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [nixie-dev/nixie](https://github.com/nixie-dev/nixie) - Put Nix in everything!
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
+- [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
@@ -1392,6 +1394,7 @@
 
 ## devops 
 
+- [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
@@ -2795,6 +2798,7 @@
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
+- [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
@@ -3671,6 +3675,7 @@
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [philipstanislaus/performant-array-to-tree](https://github.com/philipstanislaus/performant-array-to-tree) - Converts an array of items with ids and parent ids to a nested tree in a performant O(n) way. Runs in browsers and Node.js.
+- [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
@@ -4264,7 +4269,6 @@
 - [arcnmx/ci](https://github.com/arcnmx/ci) - CI helpers
 - [hugosenari/friendly-modules](https://github.com/hugosenari/friendly-modules) - Random Nix Modules from web
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
-- [HatsuneMiku3939/direnv-action](https://github.com/HatsuneMiku3939/direnv-action) - Provide environment variables via direnv.
 - [xt0rted/block-autosquash-commits-action](https://github.com/xt0rted/block-autosquash-commits-action) - A Github Action to prevent merging pull requests containing autosquash commit messages.
 - [WordPress/block-interactivity-experiments](https://github.com/WordPress/block-interactivity-experiments) - ⚠️ WARNING: This repository is no longer active. The development and discussions have been moved to the Gutenberg repository.
 - [meodai/poline](https://github.com/meodai/poline) - Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space
