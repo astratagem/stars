@@ -1020,7 +1020,6 @@
 
 ## HTML 
 
-- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [SenchoPens/base16-kandinsky](https://github.com/SenchoPens/base16-kandinsky) - A base16 colorscheme based on "Yellow, Red, Blue" by Wassily Kandinsky.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
@@ -2107,7 +2106,7 @@
 - [daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) - :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [lukecav/awesome-wp-developer-tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
-- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
+- [simonaronsson/awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) - A curated list of resources on software architecture
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
@@ -2943,6 +2942,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [zacharykapank/repomap](https://github.com/zacharykapank/repomap) - 
+- [freecomputinglab/rheo](https://github.com/freecomputinglab/rheo) - Typesetting and static site engine based on Typst
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
@@ -3554,7 +3554,7 @@
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
-- [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - Your operating system for everything modular. Open source
+- [Polyterative/Patcher](https://github.com/Polyterative/Patcher) - Your operating system for everything modular
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
