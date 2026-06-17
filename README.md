@@ -311,7 +311,7 @@
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
 - [ChristosBouronikos/Nord-Polar-Night-Theme](https://github.com/ChristosBouronikos/Nord-Polar-Night-Theme) - An awesome new dark Firefox theme based on the Nord color palette!
-- [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
+- [alizehdotspace/firefox-i3wm-theme](https://github.com/alizehdotspace/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [zzzeyez/pecan](https://github.com/zzzeyez/pecan) - menubar for macOS
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
