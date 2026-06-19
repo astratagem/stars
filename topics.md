@@ -222,6 +222,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -3807,6 +3808,7 @@
 
 ## others 
 
+- [CaddyGlow/zmk-layout-rs](https://github.com/CaddyGlow/zmk-layout-rs) - 
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [marcel-za/wp-theme-blockaide](https://github.com/marcel-za/wp-theme-blockaide) - A lightweight WordPress helper utility that automatically disables the Full Site Editor (FSE) on Staging and Production environments. Protects file-based block themes from database template overrides 
 - [copier-org/copier-template-extensions](https://github.com/copier-org/copier-template-extensions) - Special Jinja2 extension for Copier that allows to load extensions using file paths relative to the template root instead of Python dotted paths.
@@ -5958,6 +5960,10 @@
 - [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+
+## redteam 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## redux 
 
