@@ -3809,6 +3809,7 @@
 
 ## others 
 
+- [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle) - find and extract wiggle stereographs from your photos
 - [CaddyGlow/zmk-layout-rs](https://github.com/CaddyGlow/zmk-layout-rs) - 
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [marcel-za/wp-theme-blockaide](https://github.com/marcel-za/wp-theme-blockaide) - A lightweight WordPress helper utility that automatically disables the Full Site Editor (FSE) on Staging and Production environments. Protects file-based block themes from database template overrides 
