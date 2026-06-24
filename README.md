@@ -2669,6 +2669,7 @@
 
 ## Python 
 
+- [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle) - find and extract wiggle stereographs from your photos
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [copier-org/copier-template-extensions](https://github.com/copier-org/copier-template-extensions) - Special Jinja2 extension for Copier that allows to load extensions using file paths relative to the template root instead of Python dotted paths.
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
