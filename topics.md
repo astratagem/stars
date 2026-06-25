@@ -3442,6 +3442,7 @@
 ## mcp 
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## microservices 
 
@@ -3896,7 +3897,7 @@
 - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [thefrontside/lspx](https://github.com/thefrontside/lspx) - language server multiplexer, supervisor, and interactive shell
-- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - Custom Gutenberg blocks created by our team.
+- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - Monorepo of custom Gutenberg blocks by the WordPress.com Special Projects team, including dynamic TOC, mega menu, modal, tabs, reactions, scroll progress, light-dark toggle, and more. An autoloader pl
 - [terlar/dev-flake](https://github.com/terlar/dev-flake) - Nix flake to support the pattern of using a separate development flake
 - [AmaiKinono/puni](https://github.com/AmaiKinono/puni) - Structured editing (soft deletion, expression navigating & manipulating) that supports many major modes out of the box.
 - [RebeccaStevens/deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
