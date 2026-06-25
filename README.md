@@ -2238,7 +2238,7 @@
 - [wp-cli/restful](https://github.com/wp-cli/restful) - Unlocking the potential of the WP REST API at the command line
 - [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool) - m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b
 - [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
-- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - Custom Gutenberg blocks created by our team.
+- [a8cteam51/special-projects-blocks-monorepo](https://github.com/a8cteam51/special-projects-blocks-monorepo) - Monorepo of custom Gutenberg blocks by the WordPress.com Special Projects team, including dynamic TOC, mega menu, modal, tabs, reactions, scroll progress, light-dark toggle, and more. An autoloader pl
 - [x3p0-dev/x3p0-ideas](https://github.com/x3p0-dev/x3p0-ideas) - 👨‍🎨 All my crazy ideas for WordPress packed into a block theme.
 - [godaddy-wordpress/go](https://github.com/godaddy-wordpress/go) - The most flexible Gutenberg-first WordPress theme built for go-getters everywhere.
 - [infinum/eightshift-deploy-actions-public](https://github.com/infinum/eightshift-deploy-actions-public) - 
