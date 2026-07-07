@@ -5036,7 +5036,6 @@
 - [akinomyoga/cxxmatrix](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set)
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
-- [krathalan/miscellaneous-scripts](https://github.com/krathalan/miscellaneous-scripts) - 
 - [javier-lopez/learn](https://github.com/javier-lopez/learn) - random files I've been collecting & programming
 - [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [mobily-enterprises/docco-next](https://github.com/mobily-enterprises/docco-next) - Docco-compatible literate documentation generator, written in ES6
