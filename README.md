@@ -933,7 +933,7 @@
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [WillFantom/OverCLIrr](https://github.com/WillFantom/OverCLIrr) - A command-line tool to interact with an Overseerr server
 - [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
