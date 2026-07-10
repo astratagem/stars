@@ -1857,7 +1857,7 @@
 - [berbiche/dotfiles](https://github.com/berbiche/dotfiles) - My messy system configuration setup
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [NeQuissimus/DevSetup](https://github.com/NeQuissimus/DevSetup) - dotfiles and NixOS setups
-- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
+- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
 - [vic/clap-nix](https://github.com/vic/clap-nix) - Command line argument parser in pure Nix. Supports sub-commands, typed positional arguments, value coercion and resolution via Nix Modules.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [vic/mk-darwin-system](https://github.com/vic/mk-darwin-system) - Small Nix utility to create an M1 aarch64-darwin (nixFlakes + nix-darwin + home-manager) system.
