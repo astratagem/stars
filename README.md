@@ -257,7 +257,6 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [GPGTools/pinentry](https://github.com/GPGTools/pinentry) - 
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [zzag/plasma5-wallpapers-dynamic](https://github.com/zzag/plasma5-wallpapers-dynamic) - Dynamic wallpaper plugin for KDE Plasma
@@ -3113,6 +3112,7 @@
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [DieracDelta/flake_generator](https://github.com/DieracDelta/flake_generator) - Generate Nix Flakes imperatively.
+- [Baughn/machine-config](https://github.com/Baughn/machine-config) - NixOS configuration for all my machines
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [snowfallorg/nix-editor](https://github.com/snowfallorg/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -3797,6 +3797,7 @@
 - [sebpiq/WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [michelson/Dante](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone
+- [danielbachhuber/dotfiles](https://github.com/danielbachhuber/dotfiles) - 
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## Typst 
@@ -3836,7 +3837,6 @@
 - [marcoieni/intellimacs](https://github.com/marcoieni/intellimacs) - Spacemacs' like key bindings for IntelliJ platform.
 - [asmvik/dotfiles](https://github.com/asmvik/dotfiles) - Configuration files
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
-- [danielbachhuber/dotfiles](https://github.com/danielbachhuber/dotfiles) - 
 
 ## Vue 
 
