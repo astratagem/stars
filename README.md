@@ -3552,7 +3552,7 @@
 
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
+- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [suchnsuch/Tangent](https://github.com/suchnsuch/Tangent) - The publicly-available modules of the Tangent project.
