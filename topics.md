@@ -1353,7 +1353,7 @@
 
 ## deployment 
 
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [sultann/wordpress-site-deploy](https://github.com/sultann/wordpress-site-deploy) - Deploy wp-content using SSH and rsync with .distignore and Slack support.
 - [alleyinteractive/action-deploy-to-remote-repository](https://github.com/alleyinteractive/action-deploy-to-remote-repository) - Sync to remote repository via GitHub actions
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
