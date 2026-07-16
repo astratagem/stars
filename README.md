@@ -2064,7 +2064,6 @@
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [stevep99/seniply](https://github.com/stevep99/seniply) - An ergonomic, six-layer extended keyboard layout designed for small keyboards.
 - [astratagem/stars](https://github.com/astratagem/stars) - 
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects.
@@ -2222,6 +2221,7 @@
 
 ## PHP 
 
+- [Automattic/co-authors-plus](https://github.com/Automattic/co-authors-plus) - Multiple bylines and Guest Authors for WordPress
 - [marcel-za/wp-theme-blockaide](https://github.com/marcel-za/wp-theme-blockaide) - A lightweight WordPress helper utility that automatically disables the Full Site Editor (FSE) on Staging and Production environments. Protects file-based block themes from database template overrides 
 - [pluginkollektiv/antispam-bee](https://github.com/pluginkollektiv/antispam-bee) - „... another popular solution to fight spam is Antispam Bee“ – Matt Mullenweg, Q&A WordCamp Europe 2014
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
@@ -2715,6 +2715,7 @@
 - [ilaria-manco/song-describer](https://github.com/ilaria-manco/song-describer) - Song Describer is a data collection platform for annotating music with textual descriptions.
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [jya-dev/supernote-tool](https://github.com/jya-dev/supernote-tool) - Unofficial python tool for Supernote
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
