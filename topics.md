@@ -3117,7 +3117,7 @@
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [its-darsh/bars-and-widgets-list](https://github.com/its-darsh/bars-and-widgets-list) - a list of status bars and widget systems for *Nix operating systems
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
-- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third-party Jellyfin client for Linux
+- [MutsumiUniverse/tsukimi](https://github.com/MutsumiUniverse/tsukimi) - A simple third-party Jellyfin client for Linux
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
@@ -3836,6 +3836,7 @@
 
 ## others 
 
+- [Melapress/melapress-login-security](https://github.com/Melapress/melapress-login-security) - The repository of the MelaPress Login Security
 - [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle) - find and extract wiggle stereographs from your photos
 - [CaddyGlow/zmk-layout-rs](https://github.com/CaddyGlow/zmk-layout-rs) - 
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
