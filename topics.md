@@ -896,6 +896,8 @@
 
 ## cli 
 
+- [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [readium/cli](https://github.com/readium/cli) - ⌨️ A CLI utility with support for a wide range of commands for ebooks, comics and audiobooks
@@ -1094,6 +1096,7 @@
 
 ## command-line 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more.
 - [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
@@ -1167,6 +1170,7 @@
 
 ## config 
 
+- [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [Wilfred/.emacs.d](https://github.com/Wilfred/.emacs.d) - My emacs configuration
 - [drupol/phpcsfixer-configs-php](https://github.com/drupol/phpcsfixer-configs-php) - Base PHP CS Fixer configurations.
 - [Fuco1/.emacs.d](https://github.com/Fuco1/.emacs.d) - My emacs config
@@ -1418,7 +1422,6 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
-- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [the-nix-way/real-world-devops-with-nix](https://github.com/the-nix-way/real-world-devops-with-nix) - An example project for building containers with Nix and deploying them to Kubernetes
@@ -2935,6 +2938,7 @@
 
 ## json 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [SavchenkoValeriy/jeison](https://github.com/SavchenkoValeriy/jeison) - An Emacs library for declarative JSON parsing
@@ -7406,6 +7410,7 @@
 
 ## xml 
 
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
