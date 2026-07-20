@@ -1720,7 +1720,6 @@
 - [Platonic-Systems/treefmt-flake](https://github.com/Platonic-Systems/treefmt-flake) - A `flake-parts` module to work with treefmt. No longer maintained; you should instead use https://github.com/numtide/treefmt-nix#flake-parts
 - [styx-static/styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [aameen-tulip/at-node-nix](https://github.com/aameen-tulip/at-node-nix) - Node.js Nix expressions
-- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [chessai/nixos-configs](https://github.com/chessai/nixos-configs) - my nixos configs
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - [mirror] - i've nixed any chance I have at human interaction by building this config
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
@@ -2665,6 +2664,8 @@
 
 ## Python 
 
+- [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle) - find and extract wiggle stereographs from your photos
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [copier-org/copier-template-extensions](https://github.com/copier-org/copier-template-extensions) - Special Jinja2 extension for Copier that allows to load extensions using file paths relative to the template root instead of Python dotted paths.
