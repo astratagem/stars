@@ -742,7 +742,6 @@
 - [karlicoss/dotemacs](https://github.com/karlicoss/dotemacs) - Emacs config (Doom/Spacemacs) + supplementary files and scripts
 - [lepisma/conceal](https://github.com/lepisma/conceal) - Conceal helps you hide private views while sharing screen in this era of remote work
 - [lepisma/rogue](https://github.com/lepisma/rogue) - Personal Emacs config
-- [psamim/dotfiles](https://github.com/psamim/dotfiles) - My dotfiles
 - [larstvei/dot-emacs](https://github.com/larstvei/dot-emacs) - My Emacs configurations written in Org mode
 - [Gleek/emacs.d](https://github.com/Gleek/emacs.d) - My Emacs Settings
 - [jkitchin/ov-highlight](https://github.com/jkitchin/ov-highlight) - A persistent highlighter for Emacs
@@ -2664,6 +2663,7 @@
 
 ## Python 
 
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle) - find and extract wiggle stereographs from your photos
@@ -3427,6 +3427,7 @@
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [jeremysears/scripts](https://github.com/jeremysears/scripts) - Handy Scripts For Doing Things
 - [kenorb/dotfiles](https://github.com/kenorb/dotfiles) - Various configuration files for shell.
+- [psamim/dotfiles](https://github.com/psamim/dotfiles) - My dotfiles
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; dotfiles-friendly; integrates with suggestions and syntax highlighting; comprehensive documentation; configurable 
