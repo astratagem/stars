@@ -3841,6 +3841,8 @@
 
 ## others 
 
+- [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
+- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [Melapress/melapress-login-security](https://github.com/Melapress/melapress-login-security) - The repository of the MelaPress Login Security
 - [JCLemme/wiggle-wiggle](https://github.com/JCLemme/wiggle-wiggle) - find and extract wiggle stereographs from your photos
 - [CaddyGlow/zmk-layout-rs](https://github.com/CaddyGlow/zmk-layout-rs) - 
