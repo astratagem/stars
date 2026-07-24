@@ -3841,6 +3841,7 @@
 
 ## others 
 
+- [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [Melapress/melapress-login-security](https://github.com/Melapress/melapress-login-security) - The repository of the MelaPress Login Security
