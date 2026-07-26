@@ -448,7 +448,7 @@
 - [emacsomancer/org-daily-reflection](https://github.com/emacsomancer/org-daily-reflection) - Reflect on your org-roam daily entries, comparing N org-roam dailies at M intervals (years, months, fortnights, weeks, days).
 - [bgturner/dot-files](https://github.com/bgturner/dot-files) - Minimal dotfiles
 - [brabalan/org-review](https://github.com/brabalan/org-review) - Track when you have done a review in org mode
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [kickingvegas/casual-bookmarks](https://github.com/kickingvegas/casual-bookmarks) - An opinionated Transient-based user interface for the Emacs bookmark list.
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
@@ -748,7 +748,6 @@
 - [larstvei/dot-emacs](https://github.com/larstvei/dot-emacs) - My Emacs configurations written in Org mode
 - [Gleek/emacs.d](https://github.com/Gleek/emacs.d) - My Emacs Settings
 - [jkitchin/ov-highlight](https://github.com/jkitchin/ov-highlight) - A persistent highlighter for Emacs
-- [dustinpaluch/init.el](https://github.com/dustinpaluch/init.el) - My Emacs init file
 - [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 - [Wilfred/emacs-refactor](https://github.com/Wilfred/emacs-refactor) - language-specific refactoring in Emacs
 - [tinted-theming/base16-emacs](https://github.com/tinted-theming/base16-emacs) - Base16 themes for Emacs
