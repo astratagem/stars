@@ -3844,6 +3844,8 @@
 
 ## others 
 
+- [merrickluo/kdl-ts-mode](https://github.com/merrickluo/kdl-ts-mode) - A major mode for editing KDL (Kdl Document Language files in Emacs, powered by tree-sitter.
+- [vic/tinted-jjui](https://github.com/vic/tinted-jjui) - jjui themes generated from base16 and base24 color schemes.
 - [YPares/nushellWith](https://github.com/YPares/nushellWith) - Isolated nushell envs with specific plugins and libraries (with Nix)
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
@@ -6356,6 +6358,7 @@
 
 ## shell 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists...
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
