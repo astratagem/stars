@@ -19,7 +19,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
-- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -361,10 +360,6 @@
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
-## DIGITAL Command Language 
-
-- [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
-
 ## Dart 
 
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
@@ -390,6 +385,7 @@
 
 ## Emacs Lisp 
 
+- [merrickluo/kdl-ts-mode](https://github.com/merrickluo/kdl-ts-mode) - A major mode for editing KDL (Kdl Document Language files in Emacs, powered by tree-sitter.
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [mpedramfar/zotra](https://github.com/mpedramfar/zotra) - 
 - [d12frosted/vui.el](https://github.com/d12frosted/vui.el) - Declarative, component-based UI library for Emacs. React-like components with state, hooks, reconciliation, and layouts - rendered using native Emacs widgets.
@@ -1587,6 +1583,7 @@
 
 ## Mustache 
 
+- [vic/tinted-jjui](https://github.com/vic/tinted-jjui) - jjui themes generated from base16 and base24 color schemes.
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 - [tinted-theming/base16-jetbrains](https://github.com/tinted-theming/base16-jetbrains) - Base16 themes for Jetbrains IDE's (IntelliJ, PyCharm, Webstorm, etc) - and the Material Theme plugin
@@ -3748,6 +3745,7 @@
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
+- [edmundmiller/dotfiles](https://github.com/edmundmiller/dotfiles) - For keeping all my Dotfiles update to date
 - [alexnault/react-headings](https://github.com/alexnault/react-headings) - ⚛ Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - Unofficial TypeScript & JavaScript Language Server
