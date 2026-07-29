@@ -385,6 +385,7 @@
 
 ## Emacs Lisp 
 
+- [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [merrickluo/kdl-ts-mode](https://github.com/merrickluo/kdl-ts-mode) - A major mode for editing KDL (Kdl Document Language files in Emacs, powered by tree-sitter.
 - [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [mpedramfar/zotra](https://github.com/mpedramfar/zotra) - 
@@ -1015,6 +1016,8 @@
 
 ## HTML 
 
+- [quoteunquoteapps/CourierPrime](https://github.com/quoteunquoteapps/CourierPrime) - 
+- [clauseggers/Playfair](https://github.com/clauseggers/Playfair) - Playfair is a general purpose Open Source typeface family
 - [SenchoPens/base16-kandinsky](https://github.com/SenchoPens/base16-kandinsky) - A base16 colorscheme based on "Yellow, Red, Blue" by Wassily Kandinsky.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
@@ -2016,6 +2019,7 @@
 
 ## Others 
 
+- [Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
 - [niri-wm/artwork](https://github.com/niri-wm/artwork) - Artwork and wallpapers for the niri ecosystem [Maintainer - @bluelinden]
 - [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics) - This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evolves in real time with the incoming audio signal.
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
@@ -2669,6 +2673,7 @@
 
 ## Python 
 
+- [CatharsisFonts/Cormorant](https://github.com/CatharsisFonts/Cormorant) - Cormorant open-source display font family
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [pixelb/crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -2945,6 +2950,7 @@
 
 ## Rust 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [CaddyGlow/zmk-layout-rs](https://github.com/CaddyGlow/zmk-layout-rs) - 
 - [figsoda/unnix](https://github.com/figsoda/unnix) - Reproducible Nix environments without installing Nix
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
