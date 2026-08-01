@@ -926,7 +926,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [benpye/launchd_shim](https://github.com/benpye/launchd_shim) - 
 - [arnarg/pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
@@ -1019,6 +1019,7 @@
 
 ## HTML 
 
+- [marchhenry/process-philosophy](https://github.com/marchhenry/process-philosophy) - A very simple simulation of what process philosophy, following Whitehead and Deleuze, might look like.
 - [quoteunquoteapps/CourierPrime](https://github.com/quoteunquoteapps/CourierPrime) - 
 - [clauseggers/Playfair](https://github.com/clauseggers/Playfair) - Playfair is a general purpose Open Source typeface family
 - [SenchoPens/base16-kandinsky](https://github.com/SenchoPens/base16-kandinsky) - A base16 colorscheme based on "Yellow, Red, Blue" by Wassily Kandinsky.
