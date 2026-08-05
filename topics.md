@@ -6497,6 +6497,7 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
