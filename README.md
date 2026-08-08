@@ -1021,6 +1021,7 @@
 
 ## HTML 
 
+- [misterapol/naeq](https://github.com/misterapol/naeq) - 
 - [marchhenry/process-philosophy](https://github.com/marchhenry/process-philosophy) - A very simple simulation of what process philosophy, following Whitehead and Deleuze, might look like.
 - [quoteunquoteapps/CourierPrime](https://github.com/quoteunquoteapps/CourierPrime) - 
 - [clauseggers/Playfair](https://github.com/clauseggers/Playfair) - Playfair is a general purpose Open Source typeface family
@@ -1229,7 +1230,6 @@
 - [10up/wp-scaffold](https://github.com/10up/wp-scaffold) - 10up WordPress project scaffold.
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
@@ -1972,6 +1972,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [jacobbednarz/j](https://github.com/jacobbednarz/j) - dotfiles; delivered via nix, nix-darwin and home-manager
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
@@ -2234,6 +2235,7 @@
 
 ## PHP 
 
+- [publishpress/publishpress-authors](https://github.com/publishpress/publishpress-authors) - PublishPress Authors is the best plugin for adding many authors to one WordPress post. You can create multiple authors, co-authors and guest authors.
 - [Melapress/melapress-login-security](https://github.com/Melapress/melapress-login-security) - The repository of the MelaPress Login Security
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [Automattic/co-authors-plus](https://github.com/Automattic/co-authors-plus) - Multiple bylines and Guest Authors for WordPress
@@ -2837,7 +2839,6 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -3688,6 +3689,7 @@
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
