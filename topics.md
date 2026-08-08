@@ -42,6 +42,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -894,6 +895,11 @@
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to pow
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
+
+## claude-skills 
+
+- [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to pow
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 
 ## cli 
@@ -3857,6 +3863,8 @@
 
 ## others 
 
+- [publishpress/publishpress-authors](https://github.com/publishpress/publishpress-authors) - PublishPress Authors is the best plugin for adding many authors to one WordPress post. You can create multiple authors, co-authors and guest authors.
+- [misterapol/naeq](https://github.com/misterapol/naeq) - 
 - [marchhenry/process-philosophy](https://github.com/marchhenry/process-philosophy) - A very simple simulation of what process philosophy, following Whitehead and Deleuze, might look like.
 - [girzel/ebdb](https://github.com/girzel/ebdb) - An EIEIO port of BBDB, Emacs' contact-management package
 - [CruiserOne/Astrolog](https://github.com/CruiserOne/Astrolog) - The astrology software "Astrolog", version 8.00
